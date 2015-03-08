@@ -1,0 +1,68 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 56
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 7
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-05 ; Times: 3
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "aipysurus fuscus" ; Times: 1
+	Query: "parahydrophis mertoni" ; Times: 3
+	Query: "mertoni" ; Times: 1
+	Query: "hydrelaps darwiniensis" ; Times: 1
+	Query: "hydrelaps" ; Times: 1
+	Query: "genus:Orcaella" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 326 download events in this period)
+Total number of records downloaded: 10323 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 6329
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Anura" ; Times: 1
+	Query: "genus:Tursiops" ; Times: 1
+	Query: "genus:Mesoplodon" ; Times: 1
+	Query: "hylidae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 8
+Total number of records retrieved from searches: 56
+Number of download events that retrieved data from the resource: 7
+Total number of records downloaded: 10831
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 17
+Total number of records retrieved from searches: 131
+Number of download events that retrieved data from the resource: 7
+Total number of records downloaded: 10831
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
