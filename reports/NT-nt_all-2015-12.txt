@@ -1,0 +1,76 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 55
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 3
+	Date: 2015-12-06 ; Times: 1
+	Date: 2015-12-01 ; Times: 2
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Camelus dromedarius" ; Times: 2
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "Liasis fuscus" ; Times: 1
+	Query: "minous trachycephalus" ; Times: 1
+	Query: "mola ramsayi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 889 download events in this period)
+Total number of records downloaded: 2816
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-01 ; Times: 2
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-07 ; Times: 5
+	Date: 2015-12-14 ; Times: 3
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-16 ; Times: 3
+	Date: 2015-12-17 ; Times: 2
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Ctenophorus decresii" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "Pogona vitticeps" ; Times: 1
+	Query: "Aprasia repens" ; Times: 1
+	Query: "Liasis fuscus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 2
+	Query: "Hemiergis peronii" ; Times: 1
+	Query: "Ctenophorus fionni" ; Times: 1
+	Query: "Strophurus ciliaris" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "Aprasia striolata" ; Times: 1
+	Query: "Oedura castelnaui" ; Times: 1
+	Query: "Ctenophorus vadnappa" ; Times: 1
+	Query: "Hemiergis decresiensis" ; Times: 1
+	Query: "Hemiergis millewae" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+
+
+End of report.
