@@ -1,0 +1,118 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 259
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 16
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-16 ; Times: 5
+	Date: 2015-11-06 ; Times: 4
+	Date: 2015-11-17 ; Times: 3
+	Date: 2015-11-09 ; Times: 3
+	Date: 2015-11-14 ; Times: 14
+	Date: 2015-11-18 ; Times: 2
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-28 ; Times: 2
+	Date: 2015-11-29 ; Times: 2
+	Date: 2015-11-04 ; Times: 2
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-26 ; Times: 4
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-21 ; Times: 5
+	Date: 2015-11-22 ; Times: 3
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "corythoichthys amplexus" ; Times: 1
+	Query: "23206" ; Times: 1
+	Query: "22626" ; Times: 1
+	Query: "Macrotis leucura" ; Times: 4
+	Query: "30141" ; Times: 1
+	Query: "pristotis gulf" ; Times: 1
+	Query: "nemipterus zysron" ; Times: 1
+	Query: "institutioncode:nt" ; Times: 1
+	Query: "brachypleura gulf" ; Times: 2
+	Query: "johnius gulf" ; Times: 1
+	Query: "23207" ; Times: 1
+	Query: "upeneus sundaicus gulf" ; Times: 1
+	Query: "catalognumber:9022" ; Times: 1
+	Query: "acanthoplesiops indicus" ; Times: 5
+	Query: "johnius belangerii" ; Times: 1
+	Query: "33590" ; Times: 1
+	Query: "Chaeropus ecaudatus" ; Times: 2
+	Query: "bembrops caudimacula" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "33462" ; Times: 2
+	Query: "terapon theraps gulf" ; Times: 1
+	Query: "saurida longimanus" ; Times: 1
+	Query: "26280" ; Times: 1
+	Query: "falciformis" ; Times: 1
+	Query: "aluterus monoceros" ; Times: 1
+	Query: "type:specimen (11531)" ; Times: 1
+	Query: "11531" ; Times: 1
+	Query: "epinephelus polylepis" ; Times: 2
+	Query: "paramonacanthus gulf" ; Times: 1
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "Perameles eremiana" ; Times: 10
+	Query: "33588" ; Times: 1
+	Query: "Chaeropus" ; Times: 1
+	Query: "Carettochelys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 751 download events in this period)
+Total number of records downloaded: 1011
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Australia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-02 ; Times: 1
+	Date: 2015-11-25 ; Times: 5
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-17 ; Times: 1
+	Date: 2015-11-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Chaeropus ecaudatus" ; Times: 1
+	Query: "Antaresia childreni" ; Times: 1
+	Query: "Eulamprus tympanum" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Aspidites ramsayi" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus" ; Times: 1
+	Query: "lampropholis delicata" ; Times: 1
+	Query: "Rugosa rugosa" ; Times: 1
+	Query: "Antaresia stimsoni" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "Perameles eremiana" ; Times: 3
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Hemiaspis signata" ; Times: 1
+
+
+End of report.
