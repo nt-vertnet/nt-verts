@@ -1,0 +1,80 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 131
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-21 ; Times: 9
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "32700" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "synagrops philippinensis" ; Times: 1
+	Query: "xenisthmus" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "meleagrides" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "saurida longimanus" ; Times: 8
+	Query: "aspidites ramsayi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 823 download events in this period)
+Total number of records downloaded: 976
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-30 ; Times: 7
+	Date: 2015-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyclorana australis" ; Times: 1
+	Query: "Cyclorana cultripes" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Cyclorana longipes" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "Cyclorana maini" ; Times: 1
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "Cyclorana novaehollandiae" ; Times: 1
+	Query: "Cyclorana cryptotis" ; Times: 1
+	Query: "nyctimene" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "boiga irregularis mappable:1" ; Times: 1
+
+
+End of report.
