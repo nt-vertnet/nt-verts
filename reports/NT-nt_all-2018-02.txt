@@ -1,0 +1,151 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 150
+Number of records retrieved in searches: 805
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Australia ; Times: 5
+	Country: Denmark ; Times: 19
+	Country: United States ; Times: 114
+	Country: Germany ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-21 ; Times: 3
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-12 ; Times: 8
+	Date: 2018-02-27 ; Times: 3
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-26 ; Times: 15
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 11
+	Date: 2018-02-03 ; Times: 2
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-05 ; Times: 93
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "iptrecordid:&#34;9d48e1f1-c2b9-4349-9489-b35c4da61155&#34;" ; Times: 4
+	Query: "Ctenochaetus binotatus" ; Times: 2
+	Query: "Acanthurus bariene" ; Times: 3
+	Query: "Camelus dromedarius dromedarius" ; Times: 5
+	Query: "Perameles eremiana " ; Times: 1
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "Glossogobius circumspectus mappable:1" ; Times: 1
+	Query: "Naso thynnoides" ; Times: 2
+	Query: "Acanthurus gahhm" ; Times: 2
+	Query: "Acanthurus bleekeri mappable:1" ; Times: 2
+	Query: "Ctenochaetus striatus" ; Times: 3
+	Query: "Acanthurus mata" ; Times: 3
+	Query: "Acanthurus triostegus" ; Times: 1
+	Query: "synodus indicus" ; Times: 1
+	Query: "Acanthurus nigrofuscus" ; Times: 1
+	Query: "Acanthurus gahhm mappable:1" ; Times: 2
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 3
+	Query: "Naso hexacanthus mappable:1" ; Times: 1
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 1
+	Query: "Acanthurus grammoptilus" ; Times: 2
+	Query: "Naso annulatus" ; Times: 1
+	Query: "Naso brevirostris" ; Times: 2
+	Query: "Naso annulatus mappable:1" ; Times: 1
+	Query: "Naso lituratus" ; Times: 2
+	Query: "Naso thynnoides mappable:1" ; Times: 2
+	Query: "Acanthurus lineatus mappable:1" ; Times: 1
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 6
+	Query: "Acanthurus mata mappable:1" ; Times: 3
+	Query: "Acanthurus pyroferus" ; Times: 3
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 2
+	Query: "Acanthurus grammoptilus mappable:1" ; Times: 2
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "Naso vlamingii mappable:1" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "Acanthurus bleekeri" ; Times: 2
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 1
+	Query: "Dasyurus geoffroii" ; Times: 3
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 2
+	Query: "(19137)" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 6
+	Query: "Acanthurus bariene mappable:1" ; Times: 3
+	Query: "Naso unicornis" ; Times: 1
+	Query: "Amblygobius nocturnus" ; Times: 1
+	Query: "Acanthurus olivaceus" ; Times: 2
+	Query: "Acanthurus glaucopareius mappable:1" ; Times: 1
+	Query: "Naso vlamingii" ; Times: 1
+	Query: "Acanthurus glaucopareius" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "Naso brevirostris mappable:1" ; Times: 2
+	Query: "dasyurus geoffroii" ; Times: 1
+	Query: "Naso lituratus mappable:1" ; Times: 2
+	Query: "Acanthurus pyroferus mappable:1" ; Times: 3
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "Egernia kintorei" ; Times: 1
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "Zebrasoma scopas mappable:1" ; Times: 1
+	Query: "Zebrasoma scopas" ; Times: 1
+	Query: "Glossogobius aureus mappable:1" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 6
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "Glossogobius giuris mappable:1" ; Times: 7
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "Glossogobius celebius mappable:1" ; Times: 2
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "iptrecordid:&#34;8a1db4ef-af3b-4e2a-916e-cd5fdad42d1e&#34;" ; Times: 4
+	Query: "Naso unicornis mappable:1" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "Glossogobius bicirrhosus mappable:1" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "specificepithet:irideus" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "Naso hexacanthus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1892 download events in this period)
+Total number of records downloaded: 157
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+
+
+End of report.
