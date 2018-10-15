@@ -1,0 +1,210 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 250
+Number of records retrieved in searches: 1221
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 87
+	Country: United States ; Times: 154
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-30 ; Times: 1
+	Date: 2017-12-25 ; Times: 3
+	Date: 2017-12-24 ; Times: 5
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 62
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-12 ; Times: 5
+	Date: 2017-12-11 ; Times: 163
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhizoprionodon taylori" ; Times: 1
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "Amblyglyphidodon aureus mappable:1" ; Times: 1
+	Query: "Amphiprion ocellaris mappable:1" ; Times: 1
+	Query: "Abudefduf septemfasciatus mappable:1" ; Times: 3
+	Query: "Abudefduf sexfasciatus" ; Times: 2
+	Query: "Carcharhinus sealei" ; Times: 2
+	Query: "Upeneus moluccensis" ; Times: 1
+	Query: "Chromis cinerascens mappable:1" ; Times: 1
+	Query: "Amblyglyphidodon leucogaster" ; Times: 1
+	Query: "Amphiprion perideraion mappable:1" ; Times: 1
+	Query: "boydii" ; Times: 1
+	Query: "Upeneus sulphureus mappable:1" ; Times: 2
+	Query: "Upeneus australiae" ; Times: 1
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "Chromis atripectoralis" ; Times: 1
+	Query: "Abudefduf vaigiensis mappable:1" ; Times: 2
+	Query: "Cephaloscyllium fasciatum" ; Times: 2
+	Query: "Hemiscyllium trispeculare" ; Times: 5
+	Query: "Abudefduf vaigiensis" ; Times: 2
+	Query: "19403" ; Times: 1
+	Query: "Negaprion acutidens" ; Times: 2
+	Query: "Amphiprion melanopus mappable:1" ; Times: 2
+	Query: "Carcharhinus dussumieri" ; Times: 2
+	Query: "Parupeneus cyclostomus" ; Times: 1
+	Query: "Parupeneus indicus" ; Times: 1
+	Query: "Carcharhinus tilstoni" ; Times: 2
+	Query: "Parupeneus bifasciatus mappable:1" ; Times: 3
+	Query: "Parupeneus trifasciatus" ; Times: 4
+	Query: "Upeneus tragula" ; Times: 4
+	Query: "Amphiprion rubrocinctus mappable:1" ; Times: 1
+	Query: "Abudefduf sexfasciatus mappable:1" ; Times: 2
+	Query: "Abudefduf septemfasciatus" ; Times: 3
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Amblyglyphidodon curacao" ; Times: 1
+	Query: "Eusphyra blochii" ; Times: 3
+	Query: "Chromis bicolor mappable:1" ; Times: 1
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 4
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "class:REPTILIA locality:LAE" ; Times: 1
+	Query: "Atelomycterus macleayi" ; Times: 3
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "Urolophus mitosis" ; Times: 1
+	Query: "Amphiprion akindynos mappable:1" ; Times: 1
+	Query: "Chromis atripes" ; Times: 1
+	Query: "Chromis bicolor" ; Times: 1
+	Query: "Chromis atripectoralis mappable:1" ; Times: 1
+	Query: "Amblyglyphidodon ternatensis mappable:1" ; Times: 1
+	Query: "Parupeneus barberinus mappable:1" ; Times: 3
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "Upeneus sundaicus" ; Times: 1
+	Query: "Abudefduf coelestinus mappable:1" ; Times: 2
+	Query: "Abudefduf sordidus" ; Times: 1
+	Query: "Amblyglyphidodon ternatensis" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "Upeneus australiae mappable:1" ; Times: 1
+	Query: "Orectolobus wardi" ; Times: 2
+	Query: "Macroramphosus scolopax mappable:1" ; Times: 1
+	Query: "Carcharhinus fitzroyensis" ; Times: 2
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "Amblyglyphidodon curacao mappable:1" ; Times: 1
+	Query: "Amphiprion akindynos" ; Times: 1
+	Query: "Abudefduf coelestinus" ; Times: 2
+	Query: "22704" ; Times: 1
+	Query: "Urolophus westraliensis" ; Times: 1
+	Query: "Parupeneus trifasciatus mappable:1" ; Times: 4
+	Query: "Chromis fumea mappable:1" ; Times: 1
+	Query: "Amphiprion percula mappable:1" ; Times: 1
+	Query: "Amphiprion clarkii mappable:1" ; Times: 1
+	Query: "Upeneus vittatus mappable:1" ; Times: 2
+	Query: "22094" ; Times: 1
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "Parupeneus pleurospilus mappable:1" ; Times: 1
+	Query: "Amphiprion melanopus" ; Times: 2
+	Query: "Upeneus bensasi" ; Times: 3
+	Query: "Urolophus flavomosaicus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Mustelus antarcticus" ; Times: 2
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Parupeneus pleurospilus" ; Times: 1
+	Query: "Carcharhinus amblyrhynchos" ; Times: 2
+	Query: "Acanthochromis polyacanthus mappable:1" ; Times: 1
+	Query: "Gymnura australis" ; Times: 2
+	Query: "Cheiloprion labiatus mappable:1" ; Times: 1
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "family:Schindleriidae" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "Parupeneus barberinoides" ; Times: 1
+	Query: "Squatina tergocellata" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "Aetomylaeus nichofii" ; Times: 3
+	Query: "Upeneus japonicus mappable:1" ; Times: 1
+	Query: "Pseudorca crassidens vntype:specimen" ; Times: 1
+	Query: "Rhizoprionodon acutus" ; Times: 1
+	Query: "Amphiprion clarkii" ; Times: 1
+	Query: "Parupeneus chrysopleuron mappable:1" ; Times: 1
+	Query: "Carcharhinus cautus" ; Times: 2
+	Query: "Aptychotrema vincentiana" ; Times: 3
+	Query: "Abudefduf bengalensis mappable:1" ; Times: 1
+	Query: "Parupeneus multifasciatus" ; Times: 1
+	Query: "Aetomylaeus vespertilio" ; Times: 8
+	Query: "Amphiprion ocellaris" ; Times: 1
+	Query: "Upeneus luzonius mappable:1" ; Times: 3
+	Query: "Mulloides flavolineatus mappable:1" ; Times: 2
+	Query: "Upeneus japonicus" ; Times: 1
+	Query: "Parupeneus indicus mappable:1" ; Times: 1
+	Query: "Chromis fumea" ; Times: 1
+	Query: "Chromis lepidolepis" ; Times: 1
+	Query: "Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "Parupeneus barberinus" ; Times: 3
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "Upeneus vittatus" ; Times: 2
+	Query: "Dasyurus geoffroii" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 1
+	Query: "32745" ; Times: 1
+	Query: "Acanthochromis polyacanthus" ; Times: 1
+	Query: "Parupeneus cinnabarinus" ; Times: 1
+	Query: "Amphiprion perideraion" ; Times: 1
+	Query: "Eucrossorhinus dasypogon" ; Times: 8
+	Query: "Upeneus sulphureus" ; Times: 2
+	Query: "Parupeneus bifasciatus" ; Times: 3
+	Query: "Pristis zijsron" ; Times: 2
+	Query: "Narcine westraliensis" ; Times: 2
+	Query: "Amblyglyphidodon leucogaster mappable:1" ; Times: 1
+	Query: "Torpedo torpedo mappable:1" ; Times: 1
+	Query: "Upeneus bensasi mappable:1" ; Times: 3
+	Query: "Amphiprion rubrocinctus" ; Times: 1
+	Query: "Parupeneus chrysopleuron" ; Times: 1
+	Query: "Upeneus sundaicus mappable:1" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "Mulloidichthys flavolineatus" ; Times: 3
+	Query: "32738" ; Times: 1
+	Query: "Abudefduf sordidus mappable:1" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "Amphiprion percula" ; Times: 1
+	Query: "Parupeneus cinnabarinus mappable:1" ; Times: 1
+	Query: "Cheiloprion labiatus" ; Times: 1
+	Query: "Abudefduf bengalensis" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Upeneus luzonius" ; Times: 3
+	Query: "Upeneus tragula mappable:1" ; Times: 4
+	Query: "Mulloides flavolineatus" ; Times: 2
+	Query: "genus:Sphyrna" ; Times: 6
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "Chromis lepidolepis mappable:1" ; Times: 1
+	Query: "Amblyglyphidodon aureus" ; Times: 1
+	Query: "Carcharhinus albimarginatus" ; Times: 2
+	Query: "Chromis cinerascens" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 1
+	Query: "Chromis atripes mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 674 download events in this period)
+Total number of records downloaded: 824
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhinobatos" ; Times: 1
+	Query: "family:Schindleriidae" ; Times: 1
+	Query: "class:Elasmobranchii" ; Times: 3
+
+
+End of report.
