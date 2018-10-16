@@ -1,0 +1,74 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 130
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 5
+	Country: Singapore ; Times: 4
+	Country: Unknown ; Times: 27
+	Country: United States ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-02 ; Times: 29
+	Date: 2018-04-17 ; Times: 3
+	Date: 2018-04-19 ; Times: 2
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-29 ; Times: 4
+	Date: 2018-04-11 ; Times: 3
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lagocephalus sceleratus " ; Times: 4
+	Query: "26781" ; Times: 1
+	Query: "Epinephelus chlorostigma" ; Times: 27
+	Query: "13989" ; Times: 1
+	Query: "amethistina" ; Times: 2
+	Query: "rastrelliger faughni" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Stegonotus country:&#34;Australia&#34;" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 5
+	Query: "bubalus bubalis" ; Times: 2
+	Query: "rastrelliger brachysoma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1359 download events in this period)
+Total number of records downloaded: 229
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-08 ; Times: 2
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Stegonotus" ; Times: 1
+	Query: "specificepithet:dama genus:Dama mappable:1" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "locality:armidale country:&#34;australia&#34;" ; Times: 1
+
+
+End of report.
