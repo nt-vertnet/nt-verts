@@ -1,0 +1,81 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 643
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Unknown ; Times: 2
+	Country: Singapore ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-02 ; Times: 6
+	Date: 2018-05-23 ; Times: 5
+	Date: 2018-05-24 ; Times: 8
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "morelia amethistina" ; Times: 2
+	Query: "Limnodynastes spenceri" ; Times: 1
+	Query: "specificepithet:signifera genus:Crinia institutioncode:NT" ; Times: 3
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1" ; Times: 1
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:NT" ; Times: 3
+	Query: "specificepithet:brevirostris genus:Orcaella" ; Times: 6
+	Query: "specificepithet:maini genus:Cyclorana institutioncode:NT" ; Times: 3
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "hydrophis ornatus" ; Times: 3
+	Query: "24432" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "Orcaella brevirostris" ; Times: 5
+	Query: "genus:Orcaella" ; Times: 1
+	Query: "specificepithet:gouldii genus:Myobatrachus institutioncode:NT" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1178 download events in this period)
+Total number of records downloaded: 175
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-18 ; Times: 3
+	Date: 2018-05-31 ; Times: 5
+	Date: 2018-05-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Macropus robustus" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+
+
+End of report.
