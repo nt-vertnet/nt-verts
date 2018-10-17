@@ -1,0 +1,88 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 102
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-30 ; Times: 2
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "24094" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 1
+	Query: "Astronesthes martensii" ; Times: 1
+	Query: "peponocephala electra" ; Times: 1
+	Query: "genus:Sousa" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 3
+	Query: "Aipysurus fuscus" ; Times: 1
+	Query: "Hemichromis bimaculatus" ; Times: 1
+	Query: "tropidophorus" ; Times: 1
+	Query: "Aipysurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 846 download events in this period)
+Total number of records downloaded: 113
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Australia ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 6
+	Date: 2018-09-27 ; Times: 7
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 4
+	Query: "Astronesthes martensii" ; Times: 1
+	Query: "specificepithet:dama genus:Dama mappable:1" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "specificepithet:cervicapra genus:Antilope mappable:1" ; Times: 3
+	Query: "Morelia amethistina" ; Times: 1
+	Query: "oedura lesueurii" ; Times: 1
+	Query: "peponocephala electra" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+	Query: "pseudorca crassidens" ; Times: 1
+
+
+End of report.
