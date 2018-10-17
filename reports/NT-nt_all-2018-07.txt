@@ -1,0 +1,87 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 127
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 25
+	Country: Singapore ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 4
+	Date: 2018-07-12 ; Times: 3
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 4
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-04 ; Times: 2
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-24 ; Times: 3
+	Date: 2018-07-03 ; Times: 5
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-22 ; Times: 2
+	Date: 2018-07-20 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chelidoperca" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "23651" ; Times: 1
+	Query: "Astrotia" ; Times: 3
+	Query: "19692" ; Times: 1
+	Query: "hydrelaps" ; Times: 1
+	Query: "genus:Orcaella" ; Times: 2
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "19982" ; Times: 1
+	Query: "18420" ; Times: 1
+	Query: "hutchinsi" ; Times: 1
+	Query: "24926" ; Times: 1
+	Query: "Ebosia" ; Times: 1
+	Query: "22763" ; Times: 2
+	Query: "emydocephalus" ; Times: 2
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 4
+	Query: "26817" ; Times: 2
+	Query: "22740" ; Times: 1
+	Query: "26423" ; Times: 1
+	Query: "parahydrophis" ; Times: 1
+	Query: "32863" ; Times: 2
+	Query: "Pterois mombasae" ; Times: 1
+	Query: "22213" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 977 download events in this period)
+Total number of records downloaded: 34
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 5
+	Date: 2018-07-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Pterois mombasae" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+
+
+End of report.
