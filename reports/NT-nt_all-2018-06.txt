@@ -1,0 +1,134 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 171
+Number of records retrieved in searches: 728
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 158
+	Country: Netherlands ; Times: 1
+	Country: Singapore ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-13 ; Times: 42
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 94
+	Date: 2018-06-20 ; Times: 19
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenochaetus binotatus" ; Times: 3
+	Query: "Acanthurus bariene" ; Times: 7
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "Naso thynnoides" ; Times: 3
+	Query: "Acanthurus gahhm" ; Times: 4
+	Query: "Acanthurus bleekeri mappable:1" ; Times: 4
+	Query: "Ctenochaetus striatus" ; Times: 4
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 3
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 4
+	Query: "Naso hexacanthus mappable:1" ; Times: 2
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 2
+	Query: "Acanthurus grammoptilus" ; Times: 4
+	Query: "Naso annulatus" ; Times: 2
+	Query: "Naso unicornis mappable:1" ; Times: 2
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "Naso lituratus" ; Times: 3
+	Query: "Naso thynnoides mappable:1" ; Times: 3
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 7
+	Query: "Acanthurus pyroferus" ; Times: 4
+	Query: "Acanthurus glaucopareius" ; Times: 1
+	Query: "Acanthurus grammoptilus mappable:1" ; Times: 4
+	Query: "Naso annulatus mappable:1" ; Times: 2
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "Dentatherina" ; Times: 1
+	Query: "wild boar" ; Times: 1
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 2
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 3
+	Query: "Acanthurus bariene mappable:1" ; Times: 7
+	Query: "Naso unicornis" ; Times: 2
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "Acanthurus glaucopareius mappable:1" ; Times: 1
+	Query: "Acanthurus pyroferus mappable:1" ; Times: 4
+	Query: "Naso vlamingii" ; Times: 2
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "Naso brevirostris mappable:1" ; Times: 3
+	Query: "Naso lituratus mappable:1" ; Times: 3
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Zebrasoma scopas mappable:1" ; Times: 2
+	Query: "Acanthurus bleekeri" ; Times: 3
+	Query: "19696" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Naso vlamingii mappable:1" ; Times: 2
+	Query: "Epinephelus chlorostigma" ; Times: 1
+	Query: "Acanthurus mata mappable:1" ; Times: 6
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "21294" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 4
+	Query: "16262" ; Times: 1
+	Query: "Acanthurus gahhm mappable:1" ; Times: 4
+	Query: "Naso hexacanthus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1169 download events in this period)
+Total number of records downloaded: 143
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Puerto Rico ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Wallabia bicolor" ; Times: 1
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "crocodylus johnstoni" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "Petrogale lateralis" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+
+
+End of report.
