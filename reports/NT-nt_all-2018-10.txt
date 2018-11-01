@@ -1,0 +1,280 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 255
+Number of records retrieved in searches: 1657
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 246
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 2
+	Date: 2018-10-05 ; Times: 15
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 7
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-23 ; Times: 26
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-29 ; Times: 11
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-16 ; Times: 14
+	Date: 2018-10-15 ; Times: 164
+
+List of queries that retrieved data from the resource: 
+	Query: "Dunckerocampus dactyliophorus" ; Times: 1
+	Query: "Rhynchostracion nasus" ; Times: 2
+	Query: "Choeroichthys suillus mappable:1" ; Times: 2
+	Query: "Cosmocampus banneri mappable:1" ; Times: 1
+	Query: "Callionymus japonicus japonicus mappable:1" ; Times: 1
+	Query: "Hippocampus semispinosus" ; Times: 1
+	Query: "Callionymus octostigmatus" ; Times: 1
+	Query: "Pseudobalistes fuscus" ; Times: 1
+	Query: "Corythoichthys flavofasciatus" ; Times: 2
+	Query: "Doryrhamphus negrosensis mappable:1" ; Times: 1
+	Query: "Callionymus delicatulus" ; Times: 2
+	Query: "Halicampus dunckeri" ; Times: 1
+	Query: "Micrognathus andersonii mappable:1" ; Times: 2
+	Query: "Corythoichthys flavofasciatus mappable:1" ; Times: 2
+	Query: "Halicampus brocki" ; Times: 1
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "Egernia major" ; Times: 1
+	Query: "Parasyngnathus argyrostictus mappable:1" ; Times: 1
+	Query: "Haliichthys taeniophorus mappable:1" ; Times: 1
+	Query: "Hippocampus montebelloensis mappable:1" ; Times: 1
+	Query: "Corythoichthys schultzi" ; Times: 1
+	Query: "Hippocampus taeniopterus mappable:1" ; Times: 1
+	Query: "Dactylopus dactylopus mappable:1" ; Times: 1
+	Query: "Hippocampus multispinus mappable:1" ; Times: 1
+	Query: "Hippocampus dahli" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Hippichthys cyanospilus" ; Times: 1
+	Query: "catalognumber:10426 institutioncode:NT" ; Times: 1
+	Query: "Trachyrhamphus longirostris" ; Times: 1
+	Query: "Callionymus belcheri belcheri mappable:1" ; Times: 2
+	Query: "Halicampus brocki mappable:1" ; Times: 1
+	Query: "Corythoichthys amplexus" ; Times: 1
+	Query: "Callionymus pleurostictus mappable:1" ; Times: 1
+	Query: "Callionymus belcheri mappable:1" ; Times: 2
+	Query: "Synchiropus australis" ; Times: 1
+	Query: "Parasyngnathus argyrostictus" ; Times: 1
+	Query: "Stigmatophora nigra mappable:1" ; Times: 1
+	Query: "Doryrhamphus janssi" ; Times: 1
+	Query: "Corythoichthys schultzi mappable:1" ; Times: 1
+	Query: "Sufflamen chrysoptera" ; Times: 1
+	Query: "Hippocampus semispinosus mappable:1" ; Times: 1
+	Query: "Abalistes stellatus mappable:1" ; Times: 2
+	Query: "Callionymus macdonaldi mappable:1" ; Times: 1
+	Query: "Balistapus undulatus" ; Times: 1
+	Query: "Egernia depressa" ; Times: 2
+	Query: "Solegnathus lettiensis" ; Times: 1
+	Query: "Callionymus macdonaldi" ; Times: 1
+	Query: "Doryrhamphus janssi mappable:1" ; Times: 1
+	Query: "Callionymus superbus" ; Times: 1
+	Query: "Callionymus moretonensis mappable:1" ; Times: 3
+	Query: "Dunckerocampus dactyliophorus mappable:1" ; Times: 1
+	Query: "Hippocampus alatus" ; Times: 1
+	Query: "Callionymus sphinx mappable:1" ; Times: 1
+	Query: "Hippocampus alatus mappable:1" ; Times: 1
+	Query: "Doryrhamphus negrosensis negrosensis" ; Times: 1
+	Query: "Callionymus japonicus mappable:1" ; Times: 2
+	Query: "Halicampus dunckeri mappable:1" ; Times: 1
+	Query: "Synchiropus postulus" ; Times: 1
+	Query: "Lactoria cornuta" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 2
+	Query: "32087" ; Times: 1
+	Query: "Solegnathus hardwickii" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "Hippocampus histrix mappable:1" ; Times: 6
+	Query: "Rhynchostracion nasus mappable:1" ; Times: 2
+	Query: "Hippichthys parvicarinatus mappable:1" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "Callionymus superbus mappable:1" ; Times: 1
+	Query: "Halicampus nitidus mappable:1" ; Times: 1
+	Query: "Hippocampus histrix" ; Times: 5
+	Query: "Synchiropus claudiae" ; Times: 1
+	Query: "Solegnathus lettiensis mappable:1" ; Times: 1
+	Query: "Egernia saxatilis" ; Times: 1
+	Query: "Callionymus russelli" ; Times: 2
+	Query: "Eusphyra blochii" ; Times: 1
+	Query: "catalognumber:13339 institutioncode:NT" ; Times: 1
+	Query: "Halicampus grayi mappable:1" ; Times: 2
+	Query: "Callionymus corallinus" ; Times: 1
+	Query: "Callionymus semeiophor" ; Times: 1
+	Query: "Rhynchostracion rhinorhynchus mappable:1" ; Times: 1
+	Query: "Festucalex cinctus" ; Times: 1
+	Query: "Hippocampus hendriki mappable:1" ; Times: 1
+	Query: "Callionymus grossi mappable:1" ; Times: 1
+	Query: "Tetrosomus gibbosus mappable:1" ; Times: 1
+	Query: "Abalistes stellatus" ; Times: 2
+	Query: "Ostracion cubicus" ; Times: 1
+	Query: "Tetrosomus gibbosus" ; Times: 1
+	Query: "Callionymus enneactis mappable:1" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "Aulostomus chinensis mappable:1" ; Times: 2
+	Query: "Haliichthys taeniophorus" ; Times: 1
+	Query: "Hippichthys cyanospilus mappable:1" ; Times: 1
+	Query: "Callionymus delicatulus mappable:1" ; Times: 1
+	Query: "Diplogrammus goramensis mappable:1" ; Times: 1
+	Query: "Ostracion cubicus mappable:1" ; Times: 1
+	Query: "Lactoria diaphana" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "Canthidermis maculatus mappable:1" ; Times: 2
+	Query: "Hippocampus multispinus" ; Times: 1
+	Query: "Callionymus octostigmatus mappable:1" ; Times: 1
+	Query: "Campichthys tricarinatus mappable:1" ; Times: 1
+	Query: "Trachyrhamphus longirostris mappable:1" ; Times: 1
+	Query: "Rhinecanthus echarpe" ; Times: 1
+	Query: "Synchiropus grandoculis mappable:1" ; Times: 1
+	Query: "Cosmocampus banneri" ; Times: 1
+	Query: "Trachyrhamphus bicoarctatus" ; Times: 1
+	Query: "Stigmatopora nigra" ; Times: 1
+	Query: "24128" ; Times: 2
+	Query: "Bhanotia fasciolata" ; Times: 1
+	Query: "Callionymus japonicus japonicus" ; Times: 1
+	Query: "Synchiropus australis mappable:1" ; Times: 1
+	Query: "Sufflamen fraenatus mappable:1" ; Times: 1
+	Query: "Diplogrammus goramensis" ; Times: 1
+	Query: "Callionymus belcheri" ; Times: 2
+	Query: "Callionymus japonicus" ; Times: 2
+	Query: "Emydocephalus" ; Times: 1
+	Query: "Choeroichthys suillus" ; Times: 2
+	Query: "Hippichthys penicillus" ; Times: 1
+	Query: "Synchiropus ocellatus mappable:1" ; Times: 1
+	Query: "Callionymus enneactis" ; Times: 1
+	Query: "Corythoichthys haematopterus mappable:1" ; Times: 1
+	Query: "Halicampus grayi" ; Times: 2
+	Query: "Doryrhamphus negrosensis" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "Callionymus meridionalis mappable:1" ; Times: 1
+	Query: "Hippocampus montebelloensis" ; Times: 1
+	Query: "Syngnathoides biaculeatus" ; Times: 1
+	Query: "Synchiropus grandoculis" ; Times: 1
+	Query: "Rhinecanthus echarpe mappable:1" ; Times: 1
+	Query: "Micrognathus andersonii" ; Times: 2
+	Query: "Hippocampus hendriki" ; Times: 1
+	Query: "Stigmatophora nigra" ; Times: 1
+	Query: "Hippocampus grandiceps" ; Times: 1
+	Query: "Hippocampus grandiceps mappable:1" ; Times: 1
+	Query: "Rhynchostracion rhinorhynchus" ; Times: 1
+	Query: "Orcaella brevirostris" ; Times: 3
+	Query: "Hippichthys penicillus mappable:1" ; Times: 1
+	Query: "Egernia kingii" ; Times: 1
+	Query: "23926" ; Times: 1
+	Query: "Corythoichthys amplexus mappable:1" ; Times: 1
+	Query: "Trachyrhamphus bicoarctatus mappable:1" ; Times: 1
+	Query: "Hippichthys parvicarinatus" ; Times: 1
+	Query: "Halicampus nitidus" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "Natator depressus" ; Times: 1
+	Query: "Callionymus russelli mappable:1" ; Times: 2
+	Query: "Anaora tentaculata mappable:1" ; Times: 2
+	Query: "Egernia hosmeri" ; Times: 1
+	Query: "Synchiropus ocellatus" ; Times: 1
+	Query: "Sufflamen fraenatus" ; Times: 1
+	Query: "Callionymus meridionalis" ; Times: 1
+	Query: "Sufflamen bursa" ; Times: 1
+	Query: "Bhanotia fasciolata mappable:1" ; Times: 1
+	Query: "Synchiropus picturatus" ; Times: 1
+	Query: "Egernia margaretae" ; Times: 4
+	Query: "Callionymus grossi" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "Corythoichthys haematopterus" ; Times: 1
+	Query: "Lactoria diaphana mappable:1" ; Times: 1
+	Query: "Synchiropus picturatus mappable:1" ; Times: 1
+	Query: "Callionymus moretonensis" ; Times: 3
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "morelia amethistina" ; Times: 1
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "Festucalex cinctus mappable:1" ; Times: 1
+	Query: "Callionymus sphinx" ; Times: 1
+	Query: "Doryrhamphus negrosensis negrosensis mappable:1" ; Times: 1
+	Query: "Alligator sinensis" ; Times: 1
+	Query: "Synchiropus paxtoni" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus mappable:1" ; Times: 1
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "Acentronura larsonae mappable:1" ; Times: 1
+	Query: "Stigmatopora nigra mappable:1" ; Times: 1
+	Query: "Synchiropus paxtoni mappable:1" ; Times: 1
+	Query: "Syngnathoides biaculeatus mappable:1" ; Times: 1
+	Query: "Sufflamen chrysoptera mappable:1" ; Times: 1
+	Query: "Solegnathus hardwickii mappable:1" ; Times: 1
+	Query: "Synchiropus claudiae mappable:1" ; Times: 1
+	Query: "Synchiropus rameus" ; Times: 1
+	Query: "Dactylopus dactylopus" ; Times: 1
+	Query: "Egernia kintorei" ; Times: 1
+	Query: "Lactoria cornuta mappable:1" ; Times: 1
+	Query: "Dunckerocampus dactyliophorus dactyliophorus mappable:1" ; Times: 1
+	Query: "Acentronura larsonae" ; Times: 1
+	Query: "Micrognathus micronotopterus mappable:1" ; Times: 1
+	Query: "Callionymus belcheri belcheri" ; Times: 2
+	Query: "Hippocampus dahli mappable:1" ; Times: 1
+	Query: "Callionymus sublaevis mappable:1" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Synchiropus postulus mappable:1" ; Times: 1
+	Query: "Anaora tentaculata" ; Times: 2
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "Synchiropus rameus mappable:1" ; Times: 1
+	Query: "Choeroichthys brachysoma mappable:1" ; Times: 1
+	Query: "Dunckerocampus dactyliophorus dactyliophorus" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "Fordonia" ; Times: 2
+	Query: "Callionymus sublaevis" ; Times: 1
+	Query: "Campichthys tricarinatus" ; Times: 1
+	Query: "Micrognathus micronotopterus" ; Times: 1
+	Query: "Choeroichthys brachysoma" ; Times: 1
+	Query: "Hippocampus taeniopterus" ; Times: 1
+	Query: "scleropages" ; Times: 2
+	Query: "Callionymus corallinus mappable:1" ; Times: 1
+	Query: "Callionymus pleurostictus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1300 download events in this period)
+Total number of records downloaded: 238
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "felis catus" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "Alligator sinensis" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "Siphamia" ; Times: 1
+	Query: "Nyctophilus arnhemensis genus:Nyctophilus" ; Times: 1
+	Query: "aurea" ; Times: 1
+
+
+End of report.
