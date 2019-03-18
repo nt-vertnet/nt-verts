@@ -1,0 +1,101 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 202
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 12
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 56
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 5
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-25 ; Times: 12
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-15 ; Times: 3
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-26 ; Times: 3
+	Date: 2019-02-27 ; Times: 40
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-28 ; Times: 8
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:30040" ; Times: 2
+	Query: "Auxis rochei mappable:1" ; Times: 1
+	Query: "30596" ; Times: 1
+	Query: "varanus spenceri" ; Times: 2
+	Query: "32115" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 6
+	Query: "31887" ; Times: 2
+	Query: "Cynoglossus heterolepis" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "polyipnus triphanos" ; Times: 2
+	Query: "Samariscus sunieri" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "varanus giganteus" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "Alligator sinensis" ; Times: 1
+	Query: "tetrabrachium ocellatum" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 10
+	Query: "32402" ; Times: 1
+	Query: "Auxis thazard mappable:1" ; Times: 1
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 2
+	Query: "32777" ; Times: 2
+	Query: "25217" ; Times: 1
+	Query: "Dalatias licha mappable:1" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 2
+	Query: "Physeter macrocephalus mappable:1" ; Times: 6
+	Query: "Cheilopogon cyanopterus mappable:1" ; Times: 3
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "Crocodylus johnstoni" ; Times: 1
+	Query: "22840" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 8
+	Query: "hydrophis ornatus" ; Times: 1
+	Query: "Peponocephala electra mappable:1" ; Times: 6
+	Query: "30254" ; Times: 1
+	Query: "Mesoplodon densirostris mappable:1" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1227 download events in this period)
+Total number of records downloaded: 72
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-14 ; Times: 4
+	Date: 2019-02-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus johnstoni" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "Pterois volitans" ; Times: 1
+	Query: "Varanus panoptes" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+
+
+End of report.
