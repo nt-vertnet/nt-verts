@@ -1,0 +1,112 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 1284
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 14
+	Country: Canada ; Times: 2
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Switzerland ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 5
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-16 ; Times: 6
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-01 ; Times: 21
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-03 ; Times: 8
+	Date: 2019-04-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenotus alacer mappable:1" ; Times: 1
+	Query: "Pygopus schraderi mappable:1" ; Times: 1
+	Query: "Carlia schmeltzii mappable:1" ; Times: 1
+	Query: "Pseudemoia spenceri mappable:1" ; Times: 1
+	Query: "Ctenotus strauchii mappable:1" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 1
+	Query: "Aprasia striolata mappable:1" ; Times: 1
+	Query: "Oedura monilis mappable:1" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "Gehyra occidentalis mappable:1" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "catalognumber:454 institutioncode:NT" ; Times: 1
+	Query: "Lophognathus gilberti mappable:1" ; Times: 1
+	Query: "catalognumber:4155 institutioncode:NT" ; Times: 1
+	Query: "Heteronotia planiceps mappable:1" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "Brachyurophis australis mappable:1" ; Times: 1
+	Query: "Proablepharus tenuis mappable:1" ; Times: 1
+	Query: "30274" ; Times: 1
+	Query: "Morethia adelaidensis mappable:1" ; Times: 1
+	Query: "Doryrhamphus negrosensis" ; Times: 4
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "Ramphotyphlops bituberculatus mappable:1" ; Times: 1
+	Query: "Centriscus scutatus" ; Times: 1
+	Query: "Tympanocryptis intima mappable:1" ; Times: 1
+	Query: "Varanus varius mappable:1" ; Times: 1
+	Query: "Chlamydosaurus kingii mappable:1" ; Times: 1
+	Query: "25148" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "33461" ; Times: 1
+	Query: "Eretmochelys imbricata mappable:1" ; Times: 1
+	Query: "Strophurus williamsi mappable:1" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "Diplodactylus vittatus mappable:1" ; Times: 1
+	Query: "Furina diadema mappable:1" ; Times: 1
+	Query: "Ctenotus tantillus mappable:1" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "Eremiascincus richardsonii mappable:1" ; Times: 1
+	Query: "Varanus institutioncode:NT" ; Times: 1
+	Query: "Diplodactylus polyophthalmus mappable:1" ; Times: 1
+	Query: "Diplodactylus tessellatus mappable:1" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "Paradelma orientalis mappable:1" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "Egernia saxatilis mappable:1" ; Times: 1
+	Query: "Lerista punctatovittata mappable:1" ; Times: 1
+	Query: "Diporiphora magna mappable:1" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "Ctenotus leae mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1263 download events in this period)
+Total number of records downloaded: 1777
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Varanus institutioncode:NT" ; Times: 2
+	Query: "Lophognathus temporalis" ; Times: 1
+
+
+End of report.
