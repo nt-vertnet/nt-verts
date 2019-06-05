@@ -1,0 +1,161 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 190
+Number of records retrieved in searches: 582
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 12
+	Country: Singapore ; Times: 2
+	Country: France ; Times: 108
+	Country: United States ; Times: 11
+	Country: Belgium ; Times: 1
+	Country: New Zealand ; Times: 54
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 39
+	Date: 2019-05-24 ; Times: 8
+	Date: 2019-05-27 ; Times: 4
+	Date: 2019-05-26 ; Times: 20
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-23 ; Times: 9
+	Date: 2019-05-22 ; Times: 19
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-31 ; Times: 3
+	Date: 2019-05-29 ; Times: 11
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-06 ; Times: 55
+	Date: 2019-05-13 ; Times: 2
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 12
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhizoprionodon taylori" ; Times: 1
+	Query: "Stegostoma fasciatum" ; Times: 1
+	Query: "Carcharhinus sealei" ; Times: 1
+	Query: "Auxis rochei rochei mappable:1" ; Times: 1
+	Query: "xanthonota" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 20
+	Query: "Mobula eregoodootenkee" ; Times: 1
+	Query: "Cephaloscyllium fasciatum" ; Times: 1
+	Query: "Hemiscyllium trispeculare" ; Times: 1
+	Query: "Negaprion acutidens" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "34130" ; Times: 1
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 1
+	Query: "Carcharhinus dussumieri" ; Times: 1
+	Query: "Carcharhinus tilstoni" ; Times: 1
+	Query: "Cheilopogon cyanopterus mappable:1" ; Times: 1
+	Query: "Decapterus macarellus mappable:1" ; Times: 2
+	Query: "Chascanopsetta" ; Times: 1
+	Query: "Mustelus manazo" ; Times: 1
+	Query: "Rhinochimaera pacifica" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 2
+	Query: "Squalus megalops" ; Times: 1
+	Query: "Peponocephala electra mappable:1" ; Times: 1
+	Query: "31985" ; Times: 1
+	Query: "Atelomycterus macleayi" ; Times: 1
+	Query: "Myliobatis australis" ; Times: 1
+	Query: "Elagatis bipinnulata mappable:1" ; Times: 2
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Carcharhinus sorrah" ; Times: 1
+	Query: "Orectolobus wardi" ; Times: 1
+	Query: "dalatias licha" ; Times: 1
+	Query: "Carcharhinus fitzroyensis" ; Times: 1
+	Query: "Eusphyra blochii" ; Times: 1
+	Query: "Hydrolagus ogilbyi" ; Times: 1
+	Query: "Carcharhinus amblyrhynchoides" ; Times: 1
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "Urolophus westraliensis" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "Mesoplodon densirostris mappable:1" ; Times: 1
+	Query: "Hemigaleus microstoma" ; Times: 1
+	Query: "Urolophus flavomosaicus" ; Times: 1
+	Query: "Triaenodon obesus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 19
+	Query: "Taeniura lymma" ; Times: 1
+	Query: "Carcharhinus amblyrhynchos" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "Gymnura australis" ; Times: 1
+	Query: "Aptychotrema vincentiana" ; Times: 1
+	Query: "Doryrhamphus negrosensis" ; Times: 1
+	Query: "Squatina tergocellata" ; Times: 1
+	Query: "Aetomylaeus nichofii" ; Times: 1
+	Query: "Rhizoprionodon acutus" ; Times: 1
+	Query: "Carcharhinus cautus" ; Times: 1
+	Query: "34176" ; Times: 1
+	Query: "Aetomylaeus vespertilio" ; Times: 1
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "Urolophus mitosis" ; Times: 1
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 1
+	Query: "Rhynchobatus djiddensis" ; Times: 1
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 2
+	Query: "Eucrossorhinus dasypogon" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "egernia depressa" ; Times: 1
+	Query: "Carcharhinus albimarginatus" ; Times: 1
+	Query: "Pristis zijsron" ; Times: 1
+	Query: "Taphozous kapalgensis" ; Times: 3
+	Query: "Narcine westraliensis" ; Times: 1
+	Query: "crossorhombus azureus" ; Times: 11
+	Query: "Carcharhinus melanopterus" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 17
+	Query: "Chiloscyllium punctatum" ; Times: 1
+	Query: "Loxodon macrorhinus" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 2
+	Query: "Pristis microdon" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 20
+	Query: "Mustelus antarcticus" ; Times: 1
+	Query: "genus:Mobula" ; Times: 1
+	Query: "31934" ; Times: 1
+	Query: "Pristis clavata" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 3
+	Query: "Xiphias gladius mappable:1" ; Times: 2
+	Query: "Himantura uarnak" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 2
+	Query: "Heterodontus zebra" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 940 download events in this period)
+Total number of records downloaded: 17
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scarus ghobban" ; Times: 1
+	Query: "crossorhombus azureus" ; Times: 1
+	Query: "egernia depressa" ; Times: 1
+
+
+End of report.
