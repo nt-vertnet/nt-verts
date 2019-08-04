@@ -1,0 +1,103 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 456
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Singapore ; Times: 6
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 5
+	Country: United States ; Times: 21
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 14
+	Date: 2019-07-08 ; Times: 12
+	Date: 2019-07-19 ; Times: 5
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-16 ; Times: 4
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chelonodon" ; Times: 1
+	Query: "genus:Torquigener specificepithet:whitleyi" ; Times: 1
+	Query: "genus:Parenchelyurus specificepithet:hepburni" ; Times: 1
+	Query: "genus:Exallias specificepithet:brevis" ; Times: 1
+	Query: "genus:Ostracion specificepithet:cubicus" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "genus:Dasyurus specificepithet:hallucatus" ; Times: 1
+	Query: "genus:Bettongia specificepithet:penicillata" ; Times: 1
+	Query: "genus:Crocodylus mappable:1" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "Pseudothecadactylus lindneri" ; Times: 1
+	Query: "genus:Manonichthys specificepithet:splendens" ; Times: 1
+	Query: "genus:Ostichthys" ; Times: 1
+	Query: "genus:Tympanocryptis specificepithet:lineata" ; Times: 1
+	Query: "megalops cyprinoides gulf" ; Times: 1
+	Query: "genus:Simoselaps family:elapidae stateprovince:&#34;northern territory&#34;" ; Times: 1
+	Query: "23937" ; Times: 1
+	Query: "Psettina" ; Times: 2
+	Query: "genus:Crocodylus  specificepithet:porosus" ; Times: 1
+	Query: "specificepithet:calligastra genus:dendrelaphis country:&#34;australia&#34;" ; Times: 1
+	Query: "genus:Triacanthus specificepithet:biaculeatus" ; Times: 1
+	Query: "Paradelma orientalis" ; Times: 3
+	Query: "pterois lunulata" ; Times: 2
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 1
+	Query: "genus:Pseudemoia specificepithet:spenceri" ; Times: 1
+	Query: "pterois russelli" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 10
+	Query: "Ebosia bleekeri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 985 download events in this period)
+Total number of records downloaded: 737
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: Mexico ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 6
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Elseya dentata" ; Times: 1
+	Query: "Diplodactylus vittatus" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "Nephrurus wheeleri" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "Pseudothecadactylus lindneri" ; Times: 1
+	Query: "Lerista stylis" ; Times: 1
+	Query: "Paradelma orientalis" ; Times: 1
+	Query: "Pygopus nigriceps" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
