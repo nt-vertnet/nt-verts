@@ -1,0 +1,144 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 785
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 21
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 17
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 3
+	Country: New Zealand ; Times: 10
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 4
+	Date: 2019-08-06 ; Times: 6
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-02 ; Times: 3
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-15 ; Times: 7
+	Date: 2019-08-14 ; Times: 6
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-05 ; Times: 9
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-29 ; Times: 7
+	Date: 2019-08-08 ; Times: 16
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 4
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:major genus:Hydrophis institutioncode:NT" ; Times: 1
+	Query: "Aipysurus fuscus" ; Times: 1
+	Query: "Aipysurus foliosquama" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "Acrochordus arafurae" ; Times: 2
+	Query: "Mormopterus planiceps" ; Times: 1
+	Query: "Emydocephalus annulatus" ; Times: 1
+	Query: "specificepithet:laevis genus:Aipysurus institutioncode:NT" ; Times: 1
+	Query: "Morelia Amethistina" ; Times: 2
+	Query: "catalognumber:R-1783" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 2
+	Query: "specificepithet:duboisii genus:Aipysurus institutioncode:NT" ; Times: 1
+	Query: "genus:Cyclorana specificepithet:novaehollandiae" ; Times: 1
+	Query: "Neosilurus hyrtlii" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "Diodon hystrix mappable:1" ; Times: 2
+	Query: "Aipysurus duboisii" ; Times: 1
+	Query: "Hydrophis coggeri" ; Times: 1
+	Query: "Alligator sinensis" ; Times: 1
+	Query: "specificepithet:dahlii order:Anura" ; Times: 2
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "Litoria gracilenta" ; Times: 1
+	Query: "Hydrophis kingii" ; Times: 4
+	Query: "genus:Trachydosaurus specificepithet:rugosus" ; Times: 1
+	Query: "amethistina" ; Times: 3
+	Query: "schindleria" ; Times: 1
+	Query: "Lapemis curtus" ; Times: 1
+	Query: "21879" ; Times: 1
+	Query: "genus:Crocodylus  specificepithet:porosus" ; Times: 1
+	Query: "24771" ; Times: 3
+	Query: "Melichthys niger mappable:1" ; Times: 2
+	Query: "specificepithet:darwiniensis genus:Hydrelaps institutioncode:NT" ; Times: 1
+	Query: "Ephalophis greyi" ; Times: 2
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "Aipysurus laevis" ; Times: 2
+	Query: "Mustelus antarcticus mappable:1" ; Times: 1
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "genus:Aipysurus institutioncode:NT" ; Times: 1
+	Query: "zenopsis nebulosa" ; Times: 2
+	Query: "Hydrophis major" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 9
+	Query: "lapemis curtus" ; Times: 1
+	Query: "24292" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 1
+	Query: "Bauhinia" ; Times: 1
+	Query: "Aipysurus apraefrontalis" ; Times: 2
+	Query: "Hydrelaps darwiniensis" ; Times: 2
+	Query: "NT R 22716" ; Times: 1
+	Query: "scleropages" ; Times: 1
+	Query: "xanthonota" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "catalognumber:R-1764" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1034 download events in this period)
+Total number of records downloaded: 448
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 3
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-08 ; Times: 7
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Heleioporus" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "Aipysurus fuscus" ; Times: 1
+	Query: "Aipysurus foliosquama" ; Times: 1
+	Query: "Acrochordus arafurae" ; Times: 3
+	Query: "typhlops" ; Times: 1
+	Query: "Aipysurus duboisii" ; Times: 1
+	Query: "Hydrophis elegans" ; Times: 1
+	Query: "Hydrophis coggeri" ; Times: 1
+	Query: "Aipysurus eydouxii" ; Times: 1
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "Hydrophis kingii" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "Acrochordus" ; Times: 1
+	Query: "Ephalophis greyi" ; Times: 1
+	Query: "Aipysurus laevis" ; Times: 1
+	Query: "Hydrophis major" ; Times: 1
+	Query: "lapemis curtus" ; Times: 1
+	Query: "Aipysurus apraefrontalis" ; Times: 2
+	Query: "Hydrelaps darwiniensis" ; Times: 1
+	Query: "Myobatrachus" ; Times: 1
+	Query: "Emydocephalus annulatus" ; Times: 1
+
+
+End of report.
