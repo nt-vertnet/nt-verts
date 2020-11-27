@@ -1,0 +1,176 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 236
+Number of records retrieved in searches: 3750
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Portugal ; Times: 8
+	Country: Singapore ; Times: 4
+	Country: France ; Times: 136
+	Country: United States ; Times: 79
+	Country: Ecuador ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 6
+	Date: 2019-12-24 ; Times: 2
+	Date: 2019-12-27 ; Times: 11
+	Date: 2019-12-26 ; Times: 33
+	Date: 2019-12-21 ; Times: 27
+	Date: 2019-12-20 ; Times: 44
+	Date: 2019-12-22 ; Times: 10
+	Date: 2019-12-31 ; Times: 4
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-07 ; Times: 43
+	Date: 2019-12-01 ; Times: 1
+	Date: 2019-12-09 ; Times: 9
+	Date: 2019-12-10 ; Times: 24
+	Date: 2019-12-06 ; Times: 2
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-13 ; Times: 3
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-16 ; Times: 8
+	Date: 2019-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Liasis institutioncode:NT" ; Times: 1
+	Query: "institutioncode:NT" ; Times: 3
+	Query: "Pseudorca crassidens mappable:1" ; Times: 2
+	Query: "boydii" ; Times: 2
+	Query: "Tylosurus acus acus mappable:1" ; Times: 13
+	Query: "Morelia amethistina institutioncode:NT" ; Times: 1
+	Query: "aspidites ramsayi institutioncode:NT" ; Times: 1
+	Query: "enhydris institutioncode:NT" ; Times: 2
+	Query: "liasis institutioncode:NT" ; Times: 1
+	Query: "Planigale ingrami" ; Times: 1
+	Query: "tropidechis institutioncode:NT" ; Times: 1
+	Query: "demansia torquata institutioncode:NT" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 5
+	Query: "rhinoplocephalus institutioncode:NT" ; Times: 1
+	Query: "vermicella annulata institutioncode:NT" ; Times: 1
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 7
+	Query: "brachyurophis fasciolatus institutioncode:NT" ; Times: 1
+	Query: "hemiaspis institutioncode:NT" ; Times: 1
+	Query: "Decapterus macarellus mappable:1" ; Times: 3
+	Query: "brachyurophis semifasciatus institutioncode:NT" ; Times: 1
+	Query: "pseudonaja mengdeni institutioncode:NT" ; Times: 1
+	Query: "Cheilopogon cyanopterus mappable:1" ; Times: 2
+	Query: "myron institutioncode:NT" ; Times: 1
+	Query: "Varanus spenceri" ; Times: 1
+	Query: "fordonia institutioncode:NT" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 4
+	Query: "Liasis olivaceus institutioncode:NT" ; Times: 1
+	Query: "Rachycentron canadum mappable:1" ; Times: 2
+	Query: "Thunnus tonggol" ; Times: 1
+	Query: "hoplocephalus bitorquatus institutioncode:NT" ; Times: 1
+	Query: "Peponocephala electra mappable:1" ; Times: 2
+	Query: "demansia papuensis institutioncode:NT" ; Times: 1
+	Query: "Auxis rochei rochei mappable:1" ; Times: 2
+	Query: "oxyuranus institutioncode:NT" ; Times: 2
+	Query: "wild boar" ; Times: 1
+	Query: "32093" ; Times: 1
+	Query: "Elagatis bipinnulata mappable:1" ; Times: 3
+	Query: "drysdalia coronoides institutioncode:NT" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "acanthophis pyrrhus institutioncode:NT" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 18
+	Query: "cerberus institutioncode:NT" ; Times: 1
+	Query: "enhydris polylepis institutioncode:NT" ; Times: 1
+	Query: "hoplocephalus stephensii institutioncode:NT" ; Times: 1
+	Query: "amethistina" ; Times: 3
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "Varanus storri" ; Times: 1
+	Query: "Tropidonophis mairii institutioncode:NT" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "pseudonaja textilis institutioncode:NT" ; Times: 1
+	Query: "acanthophis antarcticus institutioncode:NT" ; Times: 1
+	Query: "23783" ; Times: 1
+	Query: "stegonotus institutioncode:NT" ; Times: 1
+	Query: "antaresia childreni institutioncode:NT" ; Times: 1
+	Query: "antaresia institutioncode:NT" ; Times: 1
+	Query: "Morelia variegata" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 13
+	Query: "Istiophorus platypterus mappable:1" ; Times: 2
+	Query: "pseudechis australis institutioncode:NT" ; Times: 1
+	Query: "hoplocephalus bungaroides institutioncode:NT" ; Times: 1
+	Query: "liasis fuscus" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 2
+	Query: "pseudonaja institutioncode:NT" ; Times: 1
+	Query: "pseudonaja affinis institutioncode:NT" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 13
+	Query: "antaresia stimsoni institutioncode:NT" ; Times: 1
+	Query: "suta suta institutioncode:NT" ; Times: 1
+	Query: "pseudechis porphyriacus institutioncode:NT" ; Times: 1
+	Query: "Suta punctata institutioncode:NT" ; Times: 1
+	Query: "vermicella institutioncode:NT" ; Times: 1
+	Query: "morelia spilota institutioncode:NT" ; Times: 1
+	Query: "Liasis fuscus institutioncode:NT" ; Times: 1
+	Query: "Physeter macrocephalus mappable:1" ; Times: 2
+	Query: "austrelaps labialis institutioncode:NT" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 2
+	Query: "brachyurophis institutioncode:NT" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "hoplocephalus institutioncode:NT" ; Times: 1
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 10
+	Query: "furina ornata institutioncode:NT" ; Times: 1
+	Query: "Suta suta institutioncode:NT" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 6
+	Query: "Fistularia commersonii" ; Times: 1
+	Query: "morelia bredli institutioncode:NT" ; Times: 1
+	Query: "morelia bredli" ; Times: 1
+	Query: "dendrelaphis institutioncode:NT" ; Times: 1
+	Query: "rhinoplocephalus pallidiceps institutioncode:NT" ; Times: 1
+	Query: "liasis fuscus institutioncode:NT" ; Times: 2
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "Diodon hystrix mappable:1" ; Times: 11
+	Query: "aspidites melanocephalus institutioncode:NT" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 4
+	Query: "dendrelaphis punctulata institutioncode:NT" ; Times: 1
+	Query: "vermicella multifasciata institutioncode:NT" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "33534" ; Times: 1
+	Query: "pseudonaja modesta institutioncode:NT" ; Times: 1
+	Query: "tropidonophis institutioncode:NT" ; Times: 1
+	Query: "brachyurophis australis institutioncode:NT" ; Times: 2
+	Query: "austrelaps institutioncode:NT" ; Times: 2
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 3
+	Query: "Xiphias gladius mappable:1" ; Times: 2
+	Query: "pseudonaja guttata institutioncode:NT" ; Times: 1
+	Query: "dendrelaphis calligastra institutioncode:NT" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 3
+	Query: "Furina diadema institutioncode:NT" ; Times: 1
+	Query: "Tropidonophis institutioncode:NT" ; Times: 1
+	Query: "denisonia institutioncode:NT" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 596 download events in this period)
+Total number of records downloaded: 416
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Varanus spenceri" ; Times: 1
+	Query: "Varanus storri" ; Times: 1
+	Query: "Varanus varius" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "Varanus acanthurus" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "Varanus tristis" ; Times: 1
+
+
+End of report.
