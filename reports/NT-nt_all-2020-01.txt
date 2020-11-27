@@ -1,0 +1,180 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 193
+Number of records retrieved in searches: 2581
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 96
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 7
+	Country: France ; Times: 84
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 5
+	Date: 2020-01-01 ; Times: 24
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-05 ; Times: 28
+	Date: 2020-01-25 ; Times: 8
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-23 ; Times: 41
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-10 ; Times: 4
+	Date: 2020-01-11 ; Times: 12
+	Date: 2020-01-12 ; Times: 12
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+	Date: 2020-01-16 ; Times: 13
+	Date: 2020-01-29 ; Times: 36
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fusca genus:Uperoleia" ; Times: 1
+	Query: "25179" ; Times: 1
+	Query: "specificepithet:meiriana genus:Litoria" ; Times: 1
+	Query: "specificepithet:longipes genus:Cyclorana" ; Times: 1
+	Query: "specificepithet:dahlii genus:Litoria" ; Times: 1
+	Query: "Auxis rochei rochei mappable:1" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "specificepithet:lignarius genus:Limnodynastes" ; Times: 1
+	Query: "scientificname:Acanthurus pyroferus mappable:1" ; Times: 3
+	Query: "specificepithet:rheocola genus:Litoria" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 6
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "specificepithet:cultripes genus:Cyclorana" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 4
+	Query: "specificepithet:convexiusculus genus:Limnodynastes" ; Times: 1
+	Query: "specificepithet:cavernicola genus:Litoria" ; Times: 1
+	Query: "genus:Loxodon" ; Times: 1
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 4
+	Query: "scientificname:Naso brevirostris mappable:1" ; Times: 2
+	Query: "scientificname:Acanthurus lineatus mappable:1" ; Times: 1
+	Query: "Decapterus macarellus mappable:1" ; Times: 2
+	Query: "genus:Bubalus" ; Times: 1
+	Query: "acrochordus granulatus" ; Times: 2
+	Query: "Cheilopogon cyanopterus mappable:1" ; Times: 2
+	Query: "specificepithet:maini genus:Cyclorana" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "specificepithet:microbelos genus:Litoria" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 2
+	Query: "Malacocephalus laevis mappable:1" ; Times: 5
+	Query: "Rachycentron canadum mappable:1" ; Times: 2
+	Query: "Peponocephala electra mappable:1" ; Times: 1
+	Query: "specificepithet:nannotis genus:Litoria" ; Times: 1
+	Query: "Elagatis bipinnulata mappable:1" ; Times: 2
+	Query: "specificepithet:deserticola genus:Crinia" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "specificepithet:melanostictus genus:Bufo" ; Times: 1
+	Query: "scientificname:Acanthurus triostegus mappable:1" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "scientificname:Naso thynnoides mappable:1" ; Times: 1
+	Query: "specificepithet:aurea genus:Litoria" ; Times: 1
+	Query: "scientificname:Acanthurus nigrofuscus mappable:1" ; Times: 3
+	Query: "specificepithet:fitzroyensis genus:Carcharhinus" ; Times: 3
+	Query: "specificepithet:taylori genus:Rhizoprionodon" ; Times: 2
+	Query: "scientificname:Acanthurus grammoptilus mappable:1" ; Times: 1
+	Query: "scientificname:Acanthurus gahhm mappable:1" ; Times: 3
+	Query: "scientificname:Zebrasoma scopas mappable:1" ; Times: 3
+	Query: "Owstonia" ; Times: 1
+	Query: "ambigua Macquaria" ; Times: 1
+	Query: "family:molidae" ; Times: 4
+	Query: "scientificname:Ctenochaetus binotatus mappable:1" ; Times: 2
+	Query: "specificepithet:raniformis genus:Litoria" ; Times: 1
+	Query: "specificepithet:adelaidensis genus:Litoria" ; Times: 1
+	Query: "specificepithet:borealis genus:Uperoleia" ; Times: 1
+	Query: "scientificname:Acanthurus mata mappable:1" ; Times: 1
+	Query: "specificepithet:citropa genus:Litoria" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 6
+	Query: "scientificname:Ctenochaetus strigosus mappable:1" ; Times: 2
+	Query: "Istiophorus platypterus mappable:1" ; Times: 3
+	Query: "scientificname:Acanthurus xanthopterus mappable:1" ; Times: 3
+	Query: "specificepithet:coplandi genus:Litoria" ; Times: 1
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 3
+	Query: "Mola mola mappable:1" ; Times: 3
+	Query: "Ramphotyphlops braminus country:&#34;Australia&#34;" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 6
+	Query: "specificepithet:melanoscaphus genus:Notaden" ; Times: 1
+	Query: "aetomylaeus nichofii" ; Times: 1
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 2
+	Query: "genus:cubiceps distance(location,geopoint(-17.387026307632393,104.00253329192083))&lt;2249844.827149386" ; Times: 1
+	Query: "specificepithet:gilleni genus:Litoria" ; Times: 1
+	Query: "scientificname:Naso vlamingii mappable:1" ; Times: 1
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "scientificname:Naso hexacanthus mappable:1" ; Times: 1
+	Query: "specificepithet:cryptotis genus:Cyclorana" ; Times: 1
+	Query: "reticulata Poecilia" ; Times: 1
+	Query: "specificepithet:depressus genus:Limnodynastes" ; Times: 1
+	Query: "specificepithet:micromeles genus:Uperoleia" ; Times: 1
+	Query: "scientificname:Naso annulatus mappable:1" ; Times: 1
+	Query: "scientificname:Ctenochaetus striatus mappable:1" ; Times: 2
+	Query: "scientificname:Acanthurus bariene mappable:1" ; Times: 1
+	Query: "scientificname:Naso unicornis mappable:1" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 6
+	Query: "specificepithet:tornieri genus:Litoria" ; Times: 1
+	Query: "specificepithet:minima genus:Uperoleia" ; Times: 1
+	Query: "specificepithet:ornatus genus:Cophixalus" ; Times: 1
+	Query: "specificepithet:moorei genus:Litoria" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 7
+	Query: "specificepithet:interioris genus:Limnodynastes" ; Times: 1
+	Query: "Auxis rochei rochei rochei mappable:1" ; Times: 1
+	Query: "specificepithet:splendida genus:Litoria" ; Times: 1
+	Query: "specificepithet:personata genus:Litoria" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 6
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "wild boar" ; Times: 1
+	Query: "specificepithet:trachyderma genus:Uperoleia" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "scientificname:Acanthurus olivaceus mappable:1" ; Times: 1
+	Query: "specificepithet:lithomoda genus:Uperoleia" ; Times: 1
+	Query: "specificepithet:vagitus genus:Cyclorana" ; Times: 1
+	Query: "scientificname:Naso lituratus mappable:1" ; Times: 1
+	Query: "specificepithet:daemeli genus:Rana" ; Times: 1
+	Query: "specificepithet:inundata genus:Uperoleia" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 2
+	Query: "Xiphias gladius mappable:1" ; Times: 3
+	Query: "specificepithet:gouldii genus:Myobatrachus" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 2
+	Query: "specificepithet:gracilenta genus:Litoria" ; Times: 1
+	Query: "specificepithet:dayi genus:Nyctimystes" ; Times: 1
+	Query: "specificepithet:novaehollandiae genus:Cyclorana" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1584 download events in this period)
+Total number of records downloaded: 253
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: China ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Nactus pelagicus" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 3
+	Query: "Tropidonophis" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+
+
+End of report.
