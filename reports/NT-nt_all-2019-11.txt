@@ -1,0 +1,95 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 390
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 18
+	Country: Singapore ; Times: 2
+	Country: Denmark ; Times: 4
+	Country: India ; Times: 8
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Belgium ; Times: 3
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 4
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-06 ; Times: 11
+	Date: 2019-11-14 ; Times: 2
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-05 ; Times: 5
+	Date: 2019-11-03 ; Times: 6
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 5
+	Date: 2019-11-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Eusphyra" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 2
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "Pseudocheirus peregrinus" ; Times: 1
+	Query: "17921" ; Times: 1
+	Query: "24573" ; Times: 1
+	Query: "genus:Uperoleia specificepithet:micromeles" ; Times: 1
+	Query: "Caranx sexfasciatus" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "sandfly" ; Times: 8
+	Query: "locality:bonney" ; Times: 1
+	Query: "Pristis zijsron vntype:specimen" ; Times: 2
+	Query: "31201" ; Times: 1
+	Query: "Caranx melampygus" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "Doryrhamphus janssi" ; Times: 1
+	Query: "baritji" ; Times: 1
+	Query: "atrobucca nibe" ; Times: 2
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "10918" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "Varanus primordius" ; Times: 1
+	Query: "Brotula multibarbata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1367 download events in this period)
+Total number of records downloaded: 145
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-05 ; Times: 3
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenophorus reticulatus" ; Times: 1
+	Query: "Physignathus lesueurii" ; Times: 1
+	Query: "Lepidóptera" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "sandfly" ; Times: 2
+
+
+End of report.
