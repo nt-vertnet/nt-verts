@@ -1,0 +1,133 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 272
+Number of records retrieved in searches: 3312
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 12
+	Country: United States ; Times: 22
+	Country: Australia ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 216
+	Country: Japan ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-07 ; Times: 32
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-03 ; Times: 11
+	Date: 2020-04-06 ; Times: 13
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 4
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-30 ; Times: 3
+	Date: 2020-04-20 ; Times: 18
+	Date: 2020-04-21 ; Times: 35
+	Date: 2020-04-01 ; Times: 8
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-08 ; Times: 140
+	Date: 2020-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leuciscus leuciscus" ; Times: 14
+	Query: "Dentatherina merceri mappable:1" ; Times: 1
+	Query: "Neosilurus hyrtlii" ; Times: 8
+	Query: "Sardinella brachysoma" ; Times: 5
+	Query: "Decapterus kurroides" ; Times: 5
+	Query: "Decapterus russelli" ; Times: 5
+	Query: "Tursiops aduncus" ; Times: 3
+	Query: "34276" ; Times: 1
+	Query: "catalognumber:26300" ; Times: 1
+	Query: "alligator sinensis" ; Times: 1
+	Query: "26816" ; Times: 3
+	Query: "Mormopterus planiceps" ; Times: 10
+	Query: "Pseudomugil cyanodorsalis mappable:1" ; Times: 2
+	Query: "26823" ; Times: 3
+	Query: "22916" ; Times: 1
+	Query: "26821" ; Times: 2
+	Query: "Pseudomugil signifer mappable:1" ; Times: 1
+	Query: "Gerres oyena" ; Times: 5
+	Query: "Butis koilomatodon" ; Times: 1
+	Query: "Pseudomugil gertrudae mappable:1" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "26884" ; Times: 2
+	Query: "26886" ; Times: 2
+	Query: "Manis javanica" ; Times: 3
+	Query: "Samariscus sunieri" ; Times: 17
+	Query: "01474" ; Times: 1
+	Query: "Carangoides chrysophrys" ; Times: 5
+	Query: "Hyporhamphus quoyi" ; Times: 5
+	Query: "Siganus canaliculatus" ; Times: 5
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 7
+	Query: "Cheilopogon cyanopterus" ; Times: 5
+	Query: "Triodon macropterus" ; Times: 6
+	Query: "Samariscus" ; Times: 1
+	Query: "Lagocephalus gloveri" ; Times: 5
+	Query: "Poecilia reticulata" ; Times: 9
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "Equus caballus" ; Times: 2
+	Query: "23472" ; Times: 1
+	Query: "Felis catus" ; Times: 4
+	Query: "Caesio Caerulaurea" ; Times: 1
+	Query: "Uraspis uraspis" ; Times: 5
+	Query: "Siganus fuscescens" ; Times: 5
+	Query: "Atrobucca nibe" ; Times: 3
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Sardinella gibbosa" ; Times: 9
+	Query: "Hirundichthys oxycephalus" ; Times: 5
+	Query: "Anodontostoma chacunda" ; Times: 4
+	Query: "Nematalosa come" ; Times: 4
+	Query: "Decapterus macrosoma" ; Times: 5
+	Query: "Parastromateus niger" ; Times: 5
+	Query: "Pseudomugil inconspicuus mappable:1" ; Times: 2
+	Query: "class:reptilia catalognumber:7347" ; Times: 1
+	Query: "Encrasicholina heteroloba" ; Times: 5
+	Query: "Atule mate" ; Times: 5
+	Query: "Lutjanus argentimaculatus" ; Times: 5
+	Query: "specificepithet:cyanocinctus genus:Hydrophis country:&#34;Australia&#34;" ; Times: 1
+	Query: "sousa chinensis" ; Times: 1
+	Query: "Pseudomugil tenellus mappable:1" ; Times: 1
+	Query: "Sardinella albella" ; Times: 9
+	Query: "Anguilla bicolor" ; Times: 1
+	Query: "Ambassis vachellii" ; Times: 5
+	Query: "Cypselurus oligolepis" ; Times: 5
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Triacanthus biaculeatus" ; Times: 2
+	Query: "Eleutheronema tetradactylum" ; Times: 5
+	Query: "Cheilopogon atrisignis" ; Times: 5
+	Query: "Decapterus macarellus" ; Times: 5
+	Query: "Plotosus canius" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1171 download events in this period)
+Total number of records downloaded: 121
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "eretmochelys" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "sousa chinensis" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+
+
+End of report.
