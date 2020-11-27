@@ -1,0 +1,92 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 196
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: United States ; Times: 27
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 6
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-29 ; Times: 6
+	Date: 2020-05-02 ; Times: 3
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-07 ; Times: 5
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "24183" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "haliichthys taeniophorus" ; Times: 1
+	Query: "ebosia bleekeri" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "naso thynnoides" ; Times: 2
+	Query: "euristhmus lepturus" ; Times: 2
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "collichthys lucidus" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "specificepithet:erosa genus:erosa" ; Times: 1
+	Query: "vntype:specimen specificepithet:lepidopodus genus:pygopus institutioncode:NT" ; Times: 1
+	Query: "Sousa chinensis" ; Times: 1
+	Query: "specificepithet:lepidopodus genus:pygopus institutioncode:NT" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Solenostomus" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "inegocia japonica" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "ellochelon" ; Times: 3
+	Query: "specificepithet:lepidopodus genus:pygopus" ; Times: 2
+	Query: "kraemeria samoensis" ; Times: 1
+	Query: "halimochirurgus centriscoides" ; Times: 1
+	Query: "Abalistes stellatus mappable:1" ; Times: 1
+	Query: "favonigobius lateralis" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1106 download events in this period)
+Total number of records downloaded: 53
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 1
+	Country: Australia ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-19 ; Times: 3
+	Date: 2020-05-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Carlia schmeltzii" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "genus:Myobatrachus" ; Times: 2
+	Query: "Stegonotus" ; Times: 1
+
+
+End of report.
