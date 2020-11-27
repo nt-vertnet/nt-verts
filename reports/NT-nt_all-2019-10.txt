@@ -1,0 +1,166 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 188
+Number of records retrieved in searches: 1045
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ukraine ; Times: 1
+	Country: Australia ; Times: 11
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 70
+	Country: Hungary ; Times: 2
+	Country: New Zealand ; Times: 98
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-23 ; Times: 56
+	Date: 2019-10-21 ; Times: 40
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 45
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-17 ; Times: 5
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-14 ; Times: 5
+	Date: 2019-10-18 ; Times: 6
+	Date: 2019-10-15 ; Times: 11
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Neobatrachus aquilonius" ; Times: 1
+	Query: "Rhizoprionodon taylori" ; Times: 2
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "Loxodon" ; Times: 1
+	Query: "Paramonacanthus filicauda mappable:1" ; Times: 2
+	Query: "Carcharhinus sealei" ; Times: 2
+	Query: "Paramonacanthus japonicus mappable:1" ; Times: 4
+	Query: "Cantherhines pardalis mappable:1" ; Times: 2
+	Query: "Mobula eregoodootenkee" ; Times: 2
+	Query: "Cephaloscyllium fasciatum" ; Times: 1
+	Query: "Hemiscyllium trispeculare" ; Times: 1
+	Query: "Neobatrachus centralis" ; Times: 1
+	Query: "Pseudorhombus diplospilus" ; Times: 1
+	Query: "Negaprion acutidens" ; Times: 2
+	Query: "Anacanthus barbatus mappable:1" ; Times: 2
+	Query: "23763" ; Times: 1
+	Query: "Carcharhinus dussumieri" ; Times: 2
+	Query: "morelia oenpelli" ; Times: 1
+	Query: "Carcharhinus tilstoni" ; Times: 2
+	Query: "Crinia remota" ; Times: 1
+	Query: "Litoria personata" ; Times: 1
+	Query: "Mustelus manazo" ; Times: 2
+	Query: "Rhinochimaera pacifica" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "Eusphyra blochii" ; Times: 2
+	Query: "32783" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "Eubalichthys caeruleoguttatus mappable:1" ; Times: 2
+	Query: "Thamnaconus fijiensis mappable:1" ; Times: 2
+	Query: "Atelomycterus macleayi" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "Thamnaconus striatus mappable:1" ; Times: 2
+	Query: "Urolophus mitosis" ; Times: 1
+	Query: "genus:pogona stateprovince:&#34;queensland&#34;" ; Times: 2
+	Query: "genus:oxyuranus stateprovince:&#34;queensland&#34;" ; Times: 2
+	Query: "Parupeneus barberinus mappable:1" ; Times: 4
+	Query: "Carcharhinus sorrah" ; Times: 2
+	Query: "Orectolobus wardi" ; Times: 1
+	Query: "Carcharhinus fitzroyensis" ; Times: 2
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "Colurodontis paxmani mappable:1" ; Times: 2
+	Query: "Oxymonacanthus longirostris mappable:1" ; Times: 2
+	Query: "Hydrolagus ogilbyi" ; Times: 2
+	Query: "Carcharhinus amblyrhynchoides" ; Times: 2
+	Query: "Carcharhinus altimus" ; Times: 2
+	Query: "Urolophus westraliensis" ; Times: 1
+	Query: "Paraluteres prionurus mappable:1" ; Times: 2
+	Query: "R-21808" ; Times: 2
+	Query: "Carcharhinus brevipinna" ; Times: 2
+	Query: "genus:Nephrurus stateprovince:&#34;Queensland&#34;" ; Times: 4
+	Query: "Urolophus flavomosaicus" ; Times: 1
+	Query: "Triaenodon obesus" ; Times: 2
+	Query: "Squatina squatina" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 2
+	Query: "Nephrurus asper" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "Eucrossorhinus dasypogon" ; Times: 2
+	Query: "Taeniura lymma" ; Times: 2
+	Query: "Carcharhinus amblyrhynchos" ; Times: 2
+	Query: "Dalatias licha" ; Times: 2
+	Query: "Gymnura australis" ; Times: 2
+	Query: "Aptychotrema vincentiana" ; Times: 2
+	Query: "Squatina tergocellata" ; Times: 1
+	Query: "Aetomylaeus nichofii" ; Times: 2
+	Query: "Myliobatis australis" ; Times: 2
+	Query: "Rhizoprionodon acutus" ; Times: 2
+	Query: "Paramonacanthus choirocephalus mappable:1" ; Times: 2
+	Query: "Carcharhinus cautus" ; Times: 2
+	Query: "32998" ; Times: 1
+	Query: "Aetomylaeus vespertilio" ; Times: 2
+	Query: "Mus musculus 1972" ; Times: 3
+	Query: "Mus musculus 1976" ; Times: 2
+	Query: "Stephanolepis cirrhifer" ; Times: 2
+	Query: "Thamnaconus hypargyreus mappable:1" ; Times: 2
+	Query: "Stephanolepis cirrhifer mappable:1" ; Times: 8
+	Query: "33502" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "genus:oxyuranus stateprovince:&#34;Queensland&#34;" ; Times: 2
+	Query: "Pseudomonacanthus peroni mappable:1" ; Times: 2
+	Query: "Pervagor melanocephalus mappable:1" ; Times: 2
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "Pristis zijsron" ; Times: 2
+	Query: "Chiloscyllium punctatum" ; Times: 2
+	Query: "Narcine westraliensis" ; Times: 2
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "Squalus megalops" ; Times: 2
+	Query: "Loxodon macrorhinus" ; Times: 2
+	Query: "Pristis microdon" ; Times: 1
+	Query: "Chaeropus ecaudatus" ; Times: 1
+	Query: "Eusphyra" ; Times: 1
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "19803" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "Hemigaleus microstoma" ; Times: 2
+	Query: "Mustelus antarcticus" ; Times: 2
+	Query: "Pervagor janthinosoma mappable:1" ; Times: 2
+	Query: "Pseudomonacanthus elongatus mappable:1" ; Times: 2
+	Query: "Pristis clavata" ; Times: 2
+	Query: "Rhynchobatus djiddensis" ; Times: 2
+	Query: "Himantura uarnak" ; Times: 2
+	Query: "Carcharhinus albimarginatus" ; Times: 2
+	Query: "Heterodontus zebra" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1308 download events in this period)
+Total number of records downloaded: 52
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "porites porites" ; Times: 1
+
+
+End of report.
