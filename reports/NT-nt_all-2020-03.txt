@@ -1,0 +1,175 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 202
+Number of records retrieved in searches: 2420
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 81
+	Country: Mexico ; Times: 45
+	Country: Unknown ; Times: 28
+	Country: United Kingdom ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Taiwan ; Times: 35
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 2
+	Date: 2020-03-26 ; Times: 62
+	Date: 2020-03-19 ; Times: 18
+	Date: 2020-03-31 ; Times: 43
+	Date: 2020-03-25 ; Times: 3
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 11
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-18 ; Times: 42
+	Date: 2020-03-20 ; Times: 9
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-04 ; Times: 3
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "Tursiops aduncus" ; Times: 1
+	Query: "Pipistrellus adamsi" ; Times: 1
+	Query: "Atherinomorus lacunosus mappable:1" ; Times: 2
+	Query: "Craterocephalus centralis mappable:1" ; Times: 1
+	Query: "lates calcarifer" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "Scotorepens sanborni" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "Pteropus scapulatus" ; Times: 1
+	Query: "Melanotaenia splendida tatei mappable:1" ; Times: 1
+	Query: "Melanotaenia exquisita mappable:1" ; Times: 1
+	Query: "Scarus ghobban mappable:1" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "Hypoatherina barnesi mappable:1" ; Times: 4
+	Query: "Mormopterus beccarii" ; Times: 2
+	Query: "Nyctophilus walkeri" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "Melanotaenia nigrans mappable:1" ; Times: 1
+	Query: "Scarus dimidiatus mappable:1" ; Times: 1
+	Query: "Scarus flavipectoralis mappable:1" ; Times: 1
+	Query: "24548" ; Times: 1
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "Craterocephalus mugiloides mappable:1" ; Times: 4
+	Query: "Mormopterus ridei" ; Times: 2
+	Query: "Melanotaenia splendida rubrostriata mappable:1" ; Times: 1
+	Query: "Iriatherina werneri mappable:1" ; Times: 1
+	Query: "Scarus forsteni mappable:1" ; Times: 2
+	Query: "Pteropus conspicillatus" ; Times: 1
+	Query: "Scotorepens balstoni" ; Times: 1
+	Query: "Stenatherina panatela mappable:1" ; Times: 1
+	Query: "Chaerephon jobensis" ; Times: 1
+	Query: "Melanotaenia australis mappable:1" ; Times: 1
+	Query: "Calotomus spinidens mappable:1" ; Times: 3
+	Query: "Saccolaimus flaviventris" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "Craterocephalus cuneiceps mappable:1" ; Times: 1
+	Query: "Atherinomorus endrachtensis mappable:1" ; Times: 4
+	Query: "Craterocephalus fluviatilis mappable:1" ; Times: 1
+	Query: "Scarus psittacus mappable:1" ; Times: 1
+	Query: "Craterocephalus capreoli mappable:1" ; Times: 2
+	Query: "Chalinolobus picatus" ; Times: 1
+	Query: "Scarus tricolor mappable:1" ; Times: 1
+	Query: "Vespadelus pumilus" ; Times: 1
+	Query: "Nyctophilus bifax" ; Times: 1
+	Query: "Pipistrellus westralis" ; Times: 1
+	Query: "Sousa chinensis" ; Times: 63
+	Query: "Nyctophilus arnhemensis" ; Times: 1
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "Scarus niger mappable:1" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "Hipposideros stenotis" ; Times: 1
+	Query: "Vespadelus vulturnus" ; Times: 1
+	Query: "Craterocephalus amniculus mappable:1" ; Times: 1
+	Query: "Craterocephalus randi mappable:1" ; Times: 1
+	Query: "Taphozous hilli" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "Melanotaenia gracilis mappable:1" ; Times: 1
+	Query: "Scotorepens greyii" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "Peponocephala electra" ; Times: 1
+	Query: "Hipposcarus longiceps mappable:1" ; Times: 1
+	Query: "Hipposideros inornatus" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "Scarus chameleon mappable:1" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "Melanotaenia splendida inornata mappable:1" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "Craterocephalus helenae mappable:1" ; Times: 1
+	Query: "genus:Tropidonophis institutioncode:NT" ; Times: 1
+	Query: "Myotis moluccarum" ; Times: 2
+	Query: "Mormopterus loriae" ; Times: 2
+	Query: "Calotomus carolinus mappable:1" ; Times: 3
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "Craterocephalus marianae mappable:1" ; Times: 1
+	Query: "norfolkia brachylepis" ; Times: 1
+	Query: "Scarus schlegeli mappable:1" ; Times: 1
+	Query: "Vespadelus caurinus" ; Times: 1
+	Query: "Mormopterus norfolkensis" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "Chalinolobus morio" ; Times: 1
+	Query: "Nyctimene robinsoni" ; Times: 2
+	Query: "Craterocephalus stramineus mappable:1" ; Times: 1
+	Query: "Macroderma gigas" ; Times: 2
+	Query: "Hypoatherina temminckii mappable:1" ; Times: 2
+	Query: "Mormopterus planiceps" ; Times: 2
+	Query: "32113" ; Times: 1
+	Query: "Nyctophilus timoriensis" ; Times: 1
+	Query: "Taphozous kapalgensis" ; Times: 1
+	Query: "Melanotaenia maccullochi mappable:1" ; Times: 1
+	Query: "Rhinolophus megaphyllus" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "Pteropus alecto" ; Times: 1
+	Query: "Scarus globiceps mappable:1" ; Times: 2
+	Query: "Hipposideros ater" ; Times: 1
+	Query: "Cetoscarus bicolor mappable:1" ; Times: 1
+	Query: "Vespadelus baverstocki" ; Times: 1
+	Query: "Vespadelus douglasorum" ; Times: 1
+	Query: "Auxis rochei" ; Times: 1
+	Query: "Craterocephalus stercusmuscarum mappable:1" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "Melanotaenia trifasciata mappable:1" ; Times: 1
+	Query: "Craterocephalus marjoriae mappable:1" ; Times: 1
+	Query: "Saccolaimus saccolaimus" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "Chalinolobus nigrogriseus" ; Times: 1
+	Query: "Craterocephalus dalhousiensis mappable:1" ; Times: 1
+	Query: "Craterocephalus eyresii mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 853 download events in this period)
+Total number of records downloaded: 103
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Taiwan ; Times: 4
+	Country: Cuba ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-26 ; Times: 6
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "lates calcarifer" ; Times: 2
+	Query: "Sousa chinensis" ; Times: 6
+	Query: "Trachycephalus" ; Times: 1
+
+
+End of report.
