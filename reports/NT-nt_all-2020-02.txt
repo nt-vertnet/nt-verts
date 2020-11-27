@@ -1,0 +1,139 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 473
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 59
+	Country: Ireland ; Times: 2
+	Country: Japan ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-03 ; Times: 4
+	Date: 2020-02-04 ; Times: 5
+	Date: 2020-02-27 ; Times: 18
+	Date: 2020-02-10 ; Times: 3
+	Date: 2020-02-05 ; Times: 41
+	Date: 2020-02-11 ; Times: 7
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-22 ; Times: 2
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-01 ; Times: 2
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stegostoma" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus chrysopleuron mappable:1" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "scientificname:Parupeneus indicus mappable:1" ; Times: 2
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus sundaicus mappable:1" ; Times: 2
+	Query: "Owstonia totomiensis" ; Times: 1
+	Query: "Nematops microstoma" ; Times: 14
+	Query: "Nematops" ; Times: 7
+	Query: "Parupeneus chrysopleuron mappable:1" ; Times: 1
+	Query: "19835" ; Times: 1
+	Query: "scientificname:Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus vittatus mappable:1" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "scientificname:Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus luzonius mappable:1" ; Times: 1
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "loxodon" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "NT 376" ; Times: 3
+	Query: "catalognumber:17880 institutioncode:NT" ; Times: 1
+	Query: "molidae" ; Times: 1
+	Query: "scientificname:Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "Poecilopsetta praelonga" ; Times: 3
+	Query: "25928" ; Times: 1
+	Query: "&#34;camelus dromedarius&#34;" ; Times: 1
+	Query: "scientificname:Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "Upeneus sundaicus mappable:1" ; Times: 2
+	Query: "Upeneus australiae mappable:1" ; Times: 1
+	Query: "Poecilopsetta colorata" ; Times: 2
+	Query: "amethistina" ; Times: 3
+	Query: "scientificname:Upeneus australiae mappable:1" ; Times: 1
+	Query: "Grammonus" ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "14846" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "Upeneus luzonius mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus tragula mappable:1" ; Times: 2
+	Query: "scientificname:Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "scientificname:Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "Parupeneus indicus mappable:1" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 2
+	Query: "26637" ; Times: 1
+	Query: "Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "scientificname:Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "scientificname:Upeneus japonicus mappable:1" ; Times: 2
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "Upeneus vittatus mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "Northern Territory genus:Moloch" ; Times: 1
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "Upeneus japonicus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1023 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cavia" ; Times: 1
+	Query: "Sminthopsis murina" ; Times: 1
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Antechinus flavipes" ; Times: 1
+	Query: "Phascogale calura" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "Monachus" ; Times: 1
+
+
+End of report.
