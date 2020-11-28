@@ -1,0 +1,109 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 319
+Number of records retrieved in searches: 4494
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 296
+	Country: China ; Times: 6
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 12
+	Date: 2020-06-15 ; Times: 72
+	Date: 2020-06-11 ; Times: 75
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 6
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-10 ; Times: 75
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-17 ; Times: 75
+
+List of queries that retrieved data from the resource: 
+	Query: "Priacanthus macracanthus" ; Times: 9
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "Sardinella brachysoma" ; Times: 6
+	Query: "Decapterus kurroides" ; Times: 6
+	Query: "Nemipterus furcosus" ; Times: 6
+	Query: "rhinochimaera pacifica" ; Times: 1
+	Query: "Ilisha melastoma" ; Times: 6
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "scartelaos histophorus" ; Times: 2
+	Query: "signigobius biocellatus" ; Times: 1
+	Query: "Johnius belangerii" ; Times: 6
+	Query: "selenotoca multifasciata" ; Times: 1
+	Query: "samaris cristatus" ; Times: 1
+	Query: "Lagocephalus gloveri" ; Times: 6
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Epinephelus chlorostigma" ; Times: 6
+	Query: "Atule mate" ; Times: 6
+	Query: "Selaroides leptolepis" ; Times: 6
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "Hyporhamphus quoyi" ; Times: 12
+	Query: "Siganus canaliculatus" ; Times: 6
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "Cheilopogon cyanopterus" ; Times: 6
+	Query: "oxyconger leptognathus" ; Times: 1
+	Query: "Encrasicholina heteroloba" ; Times: 9
+	Query: "Butis butis" ; Times: 6
+	Query: "Eleutheronema tetradactylum" ; Times: 9
+	Query: "Escualosa thoracata" ; Times: 6
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "mustelus manazo" ; Times: 2
+	Query: "Glossogobius aureus" ; Times: 6
+	Query: "oxycirrhites typus" ; Times: 1
+	Query: "Toxotes chatareus" ; Times: 6
+	Query: "Sardinella gibbosa" ; Times: 9
+	Query: "Drombus globiceps" ; Times: 6
+	Query: "Hirundichthys oxycephalus" ; Times: 6
+	Query: "Otolithes ruber" ; Times: 12
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "Decapterus macrosoma" ; Times: 12
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "Sillago sihama" ; Times: 6
+	Query: "Siganus fuscescens" ; Times: 12
+	Query: "rhynchorhamphus georgii" ; Times: 1
+	Query: "Setipinna tenuifilis" ; Times: 6
+	Query: "Epinephelus fasciatus" ; Times: 6
+	Query: "Decapterus russelli" ; Times: 6
+	Query: "kraemeria samoensis" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "Sardinella albella" ; Times: 6
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "Ambassis vachellii" ; Times: 6
+	Query: "Cypselurus oligolepis" ; Times: 6
+	Query: "onigocia macrolepis" ; Times: 1
+	Query: "Cheilopogon atrisignis" ; Times: 6
+	Query: "Lates calcarifer" ; Times: 6
+	Query: "Lepturacanthus savala" ; Times: 6
+	Query: "Plotosus canius" ; Times: 6
+	Query: "Glossogobius giuris" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 474 download events in this period)
+Total number of records downloaded: 45
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "Tiliqua nigrolutea" ; Times: 1
+
+
+End of report.
