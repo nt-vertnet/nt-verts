@@ -1,0 +1,132 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 328
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 37
+	Country: United States ; Times: 17
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 19
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 7
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-21 ; Times: 6
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 39
+	Date: 2020-07-06 ; Times: 12
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM)" ; Times: 1
+	Query: "histiopterus typus" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU)" ; Times: 1
+	Query: "Elagatis bipinnulata mappable:1" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans)" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU)" ; Times: 1
+	Query: "Auxis rochei rochei mappable:1" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 2
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "19966" ; Times: 1
+	Query: "ellochelon vaigiensis" ; Times: 1
+	Query: "epinephelus morrhua" ; Times: 2
+	Query: "Diodon hystrix mappable:1" ; Times: 2
+	Query: "23630" ; Times: 1
+	Query: "wattsia" ; Times: 2
+	Query: "Neoscopelus microchir mappable:1" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "epinephelus malabaricus" ; Times: 2
+	Query: "Remora brachyptera mappable:1" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 1
+	Query: "epinephelus rivulatus" ; Times: 2
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 1
+	Query: "Acropoma" ; Times: 1
+	Query: "etelis coruscans" ; Times: 1
+	Query: "notoryctes" ; Times: 1
+	Query: "amadeus" ; Times: 2
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "Carcharhinus brevipinna mappable:1" ; Times: 1
+	Query: "Decapterus macarellus mappable:1" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM)" ; Times: 1
+	Query: "Cheilopogon cyanopterus mappable:1" ; Times: 1
+	Query: "21252" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 1
+	Query: "norfolkia" ; Times: 1
+	Query: "23686" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "family:Dasyuridae (zoo OR captive)" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 1
+	Query: "gymnocranius elongatus" ; Times: 5
+	Query: "Peponocephala electra mappable:1" ; Times: 1
+	Query: "Liza vaigiensis" ; Times: 1
+	Query: "pristipomoides filamentosus" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 940 download events in this period)
+Total number of records downloaded: 2670
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-29 ; Times: 1
+	Date: 2020-07-16 ; Times: 3
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elapidae" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "Stenella attenuata" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "family:Dasyuridae (zoo OR captive)" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+
+
+End of report.
