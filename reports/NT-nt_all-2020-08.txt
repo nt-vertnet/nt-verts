@@ -1,0 +1,96 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 243
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 17
+	Country: Australia ; Times: 3
+	Country: Peru ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Austria ; Times: 1
+	Country: China ; Times: 3
+	Country: Ireland ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-05 ; Times: 9
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-29 ; Times: 6
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-09 ; Times: 3
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-19 ; Times: 2
+	Date: 2020-08-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Leuciscus leuciscus" ; Times: 1
+	Query: "mappable:1 scientificname:Chelonia mydas" ; Times: 1
+	Query: "25785" ; Times: 1
+	Query: "33873" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "Emydocephalus" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "genus:Cataetyx" ; Times: 3
+	Query: "specificepithet:lepidogenys genus:Cataetyx" ; Times: 1
+	Query: "32206" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "scartelaos" ; Times: 2
+	Query: "Sousa chinensis" ; Times: 2
+	Query: "Istiophorus platypterus" ; Times: 1
+	Query: "genus:Periophthalmodon" ; Times: 1
+	Query: "14370" ; Times: 1
+	Query: "genus:Myron" ; Times: 1
+	Query: "Acanthochromis polyacanthus" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "genus:Scartelaos" ; Times: 2
+	Query: "Thunnus tonggol" ; Times: 1
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 2
+	Query: "Acentronura" ; Times: 3
+	Query: "genus:Chascanopsetta" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 756 download events in this period)
+Total number of records downloaded: 1086
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Australia ; Times: 1
+	Country: China ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-05 ; Times: 6
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "Emydocephalus" ; Times: 1
+	Query: "genus:Cerberus order:Squamata" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Nyctimystes" ; Times: 1
+	Query: "Sousa chinensis" ; Times: 4
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "genus:ziphius" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
