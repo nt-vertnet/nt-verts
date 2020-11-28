@@ -1,0 +1,154 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 94
+Number of records retrieved in searches: 739
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Finland ; Times: 5
+	Country: India ; Times: 2
+	Country: France ; Times: 68
+	Country: United States ; Times: 14
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-16 ; Times: 20
+	Date: 2020-09-17 ; Times: 17
+	Date: 2020-09-10 ; Times: 5
+	Date: 2020-09-11 ; Times: 4
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-18 ; Times: 23
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-21 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "32708" ; Times: 3
+	Query: "Upeneus moluccensis" ; Times: 1
+	Query: "furina tristis" ; Times: 1
+	Query: "Spratelloides delicatulus" ; Times: 1
+	Query: "Rhizoprionodon acutus" ; Times: 1
+	Query: "Abudefduf vaigiensis" ; Times: 2
+	Query: "Platax teira" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "Cheilopogon furcatus" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "Terapon theraps" ; Times: 1
+	Query: "Priacanthus hamrur" ; Times: 1
+	Query: "Tylerius spinosissimus" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Epinephelus malabaricus" ; Times: 1
+	Query: "Synagrops japonicus" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Parexocoetus mento" ; Times: 1
+	Query: "hydrelaps" ; Times: 2
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "Dussumieria elopsoides" ; Times: 1
+	Query: "Uperoleia minima" ; Times: 1
+	Query: "hydrophis pacificus" ; Times: 1
+	Query: "Saurida undosquamis" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "Pelates quadrilineatus" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "Sargocentron rubrum" ; Times: 1
+	Query: "Rastrelliger kanagurta" ; Times: 1
+	Query: "Hemiramphus far" ; Times: 1
+	Query: "Sphoeroides pachygaster" ; Times: 1
+	Query: "hydrophis cyanocinctus" ; Times: 1
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "23790" ; Times: 1
+	Query: "Tetrosomus gibbosus" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+	Query: "Tylosurus choram" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Beryx splendens" ; Times: 2
+	Query: "Oxyurichthys papuensis" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "specificepithet:listeri genus:lepidodactylus family:gekkonidae" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Atherinomorus lacunosus" ; Times: 1
+	Query: "genus:cerberus order:Squamata" ; Times: 2
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "Sillago sihama" ; Times: 1
+	Query: "Platycephalus indicus" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Lutjanus argentimaculatus" ; Times: 1
+	Query: "Elagatis bipinnulata" ; Times: 1
+	Query: "Remora brachyptera" ; Times: 1
+	Query: "Decapterus russelli" ; Times: 1
+	Query: "Hyporhamphus affinis" ; Times: 1
+	Query: "Epinephelus fasciatus" ; Times: 1
+	Query: "Muraenesox cinereus" ; Times: 1
+	Query: "Fistularia commersonii" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 1
+	Query: "Plotosus lineatus" ; Times: 1
+	Query: "Dussumieria acuta" ; Times: 1
+	Query: "colcloughi" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 1
+	Query: "Epinephelus coioides" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "Rachycentron canadum" ; Times: 1
+	Query: "Lagocephalus spadiceus" ; Times: 1
+	Query: "emydocephalus annulatus" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "Omobranchus punctatus" ; Times: 1
+	Query: "Terapon puta" ; Times: 1
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Xiphias gladius" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 1
+	Query: "Himantura uarnak" ; Times: 1
+	Query: "Chaunax pictus" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 976 download events in this period)
+Total number of records downloaded: 200
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-18 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "curacao" ; Times: 2
+	Query: "tympanocryptis cephalus" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+
+
+End of report.
