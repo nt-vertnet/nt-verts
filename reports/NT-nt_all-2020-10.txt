@@ -1,0 +1,207 @@
+Report for Institution Code NT, Resource nt_all
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 236
+Number of records retrieved in searches: 1138
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 14
+	Country: Australia ; Times: 1
+	Country: Samoa ; Times: 1
+	Country: Finland ; Times: 2
+	Country: France ; Times: 163
+	Country: United Kingdom ; Times: 46
+	Country: Austria ; Times: 1
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-13 ; Times: 48
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-16 ; Times: 5
+	Date: 2020-10-17 ; Times: 35
+	Date: 2020-10-15 ; Times: 28
+	Date: 2020-10-20 ; Times: 42
+	Date: 2020-10-23 ; Times: 5
+	Date: 2020-10-22 ; Times: 7
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-24 ; Times: 44
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-05 ; Times: 5
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tursiops aduncus" ; Times: 1
+	Query: "mappable:1 scientificname:Remora brachyptera" ; Times: 2
+	Query: "institutioncode:NT" ; Times: 1
+	Query: "uperoleia trachyderma" ; Times: 1
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 1
+	Query: "Sarda orientalis" ; Times: 1
+	Query: "mappable:1 scientificname:Bos javanicus" ; Times: 1
+	Query: "mappable:1 scientificname:Ziphius cavirostris" ; Times: 2
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 1
+	Query: "Plectropomus leopardus" ; Times: 1
+	Query: "mappable:1 scientificname:Auxis rochei rochei rochei" ; Times: 1
+	Query: "Psenopsis anomala" ; Times: 1
+	Query: "Alectis ciliaris" ; Times: 1
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 1
+	Query: "Auxis thazard" ; Times: 1
+	Query: "Decapterus macarellus mappable:1" ; Times: 1
+	Query: "Decapterus macrosoma" ; Times: 1
+	Query: "Cheilopogon cyanopterus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Neoscopelus microchir" ; Times: 5
+	Query: "Ablennes hians mappable:1" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "uperoleia borealis" ; Times: 1
+	Query: "Thunnus tonggol" ; Times: 1
+	Query: "mappable:1 scientificname:Diodon hystrix" ; Times: 9
+	Query: "Cantherhines pardalis" ; Times: 1
+	Query: "Auxis rochei rochei mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Upeneus sundaicus" ; Times: 1
+	Query: "Oplegnathus woodwardi" ; Times: 1
+	Query: "mappable:1 scientificname:Ruvettus pretiosus" ; Times: 5
+	Query: "Elagatis bipinnulata mappable:1" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Melichthys niger" ; Times: 10
+	Query: "cavernicola" ; Times: 2
+	Query: "Selaroides leptolepis" ; Times: 1
+	Query: "Caranx ignobilis" ; Times: 1
+	Query: "Amblygaster sirm" ; Times: 1
+	Query: "mappable:1 scientificname:Sphyrna lewini" ; Times: 3
+	Query: "mappable:1 scientificname:Decapterus macarellus" ; Times: 4
+	Query: "Remora brachyptera mappable:1" ; Times: 1
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "genus:fordonia" ; Times: 2
+	Query: "Craterocephalus dalhousiensis" ; Times: 1
+	Query: "Rastrelliger kanagurta" ; Times: 1
+	Query: "mappable:1 scientificname:Peponocephala electra" ; Times: 2
+	Query: "class:Reptilia catalognumber:25910" ; Times: 1
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "mappable:1 scientificname:Tylosurus acus acus" ; Times: 4
+	Query: "mappable:1 scientificname:Alectis ciliaris" ; Times: 4
+	Query: "25126" ; Times: 1
+	Query: "mappable:1 scientificname:Rachycentron canadum" ; Times: 4
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "Caranx tille" ; Times: 1
+	Query: "Carcharhinus brevipinna mappable:1" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Thamnaconus hypargyreus" ; Times: 1
+	Query: "Lepidodactylus listeri" ; Times: 1
+	Query: "Paraluteres prionurus" ; Times: 1
+	Query: "12803" ; Times: 1
+	Query: "Decapterus macarellus" ; Times: 1
+	Query: "mappable:1 scientificname:Malacocephalus laevis" ; Times: 5
+	Query: "Samaris cristatus" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "uperoleia micromeles" ; Times: 1
+	Query: "Plectropomus maculatus" ; Times: 1
+	Query: "mappable:1 scientificname:Mola mola" ; Times: 2
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "hydrelaps" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 1
+	Query: "Megalaspis cordyla" ; Times: 1
+	Query: "Sus scrofa" ; Times: 3
+	Query: "Aluterus monoceros mappable:1" ; Times: 1
+	Query: "Argyrops spinifer" ; Times: 1
+	Query: "Carangoides equula" ; Times: 1
+	Query: "mappable:1 scientificname:Auxis thazard thazard" ; Times: 3
+	Query: "Neoscopelus microchir mappable:1" ; Times: 1
+	Query: "Parastromateus niger" ; Times: 1
+	Query: "mappable:1 scientificname:Sarda sarda" ; Times: 3
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 1
+	Query: "Retropinna semoni" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "33842" ; Times: 1
+	Query: "33841" ; Times: 2
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "Dentex tumifrons" ; Times: 1
+	Query: "Solenostomus" ; Times: 1
+	Query: "23783" ; Times: 2
+	Query: "Elagatis bipinnulata" ; Times: 1
+	Query: "mappable:1 scientificname:Auxis rochei rochei" ; Times: 2
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Elagatis bipinnulata" ; Times: 4
+	Query: "scientificname:Auxis rochei rochei" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Carcharhinus limbatus" ; Times: 3
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "mappable:1 scientificname:Tylosurus crocodilus crocodilus" ; Times: 9
+	Query: "mappable:1 scientificname:Aluterus monoceros" ; Times: 7
+	Query: "mappable:1 scientificname:Mesoplodon densirostris" ; Times: 2
+	Query: "mappable:1 scientificname:Istiophorus platypterus" ; Times: 3
+	Query: "Craterocephalus stramineus" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Carcharhinus falciformis" ; Times: 3
+	Query: "Craterocephalus amniculus" ; Times: 1
+	Query: "Seriolina nigrofasciata" ; Times: 1
+	Query: "emydocephalus annulatus" ; Times: 1
+	Query: "mappable:1 scientificname:Ablennes hians" ; Times: 5
+	Query: "mappable:1 scientificname:Xiphias gladius" ; Times: 4
+	Query: "mappable:1 scientificname:Pseudorca crassidens" ; Times: 2
+	Query: "Caranx melampygus" ; Times: 1
+	Query: "mappable:1 scientificname:Neoscopelus macrolepidotus" ; Times: 5
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "mappable:1 scientificname:Cheilopogon furcatus" ; Times: 4
+	Query: "Auxis rochei" ; Times: 1
+	Query: "Retropinna retropinna" ; Times: 1
+	Query: "22692" ; Times: 1
+	Query: "Anguilla bicolor" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Cheilopogon cyanopterus" ; Times: 4
+	Query: "scientificname:Tylosurus acus acus" ; Times: 1
+	Query: "scientificname:Macropus rufogriseus" ; Times: 1
+	Query: "mappable:1 scientificname:Balaenoptera acutorostrata" ; Times: 3
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 2
+	Query: "mappable:1 scientificname:Physeter macrocephalus" ; Times: 2
+	Query: "mappable:1 scientificname:Carcharhinus brevipinna" ; Times: 3
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1521 download events in this period)
+Total number of records downloaded: 343
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Samoa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "Stegonotus cucullatus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "Myotis" ; Times: 1
+	Query: "Lepidodactylus listeri" ; Times: 1
+	Query: "family:Triglidae" ; Times: 1
+
+
+End of report.
